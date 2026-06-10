@@ -15,7 +15,7 @@ df = generate_agile_data();
 print(df.describe());
 print(df.head());
 
-# manipulate dataframe
+# manipulate dataframe add
 # Group by county hub, return RA
 
 df.groupby("Your County Hub")["RA"].sum();
