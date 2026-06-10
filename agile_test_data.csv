@@ -1,0 +1,1001 @@
+Timestamp,Activity Month,Activity Year,Your County Hub,Site,Study Acronym,Study Type,Have you Supported set up,Number Screening Visits,No recruited / Consented patients,follow ups,pres surveys distributed,Agile Team member name,FY,CPMSID,Managing Specialty
+2026-06-14 09:46:18,Jun,2026,Central Hub,Park View Medical Practice,ORION,Commercial,False,30,29,38,41,James Patel,2026/27,100001,Dermatology
+2026-12-20 10:25:31,Dec,2026,South Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,10,9,9,13,Sophie Wilson,2026/27,100006,Mental Health
+2024-11-26 17:13:20,Nov,2024,West Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,27,9,9,24,Sarah Jones,2024/25,100008,Neurology
+2025-09-08 15:18:20,Sep,2025,South Hub,Park View Medical Practice,ORION,Commercial,False,27,26,67,27,Michael Taylor,2025/26,100001,Diabetes
+2024-05-28 13:06:41,May,2024,Central Hub,Meadow Lane Surgery,GALAXY,Commercial,True,30,4,5,10,Rachel White,2024/25,100002,Dermatology
+2024-08-21 08:26:22,Aug,2024,East Hub,Oakwood Surgery,INSIGHT,Non-Commercial,True,6,2,4,5,Emma Brown,2024/25,100005,Cardiology
+2024-04-05 09:56:48,Apr,2024,North Hub,Hilltop Health Centre,HORIZON,Non-Commercial,True,30,20,26,23,Rachel White,2024/25,100008,Dermatology
+2023-11-25 09:03:38,Nov,2023,East Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,26,6,23,16,James Patel,2023/24,100007,Mental Health
+2026-02-06 12:25:34,Feb,2026,North Hub,Hilltop Health Centre,PULSE,Commercial,True,29,5,16,15,Tom Evans,2025/26,100003,Primary Care
+2025-08-24 15:59:36,Aug,2025,Central Hub,Greenfield Practice,FOCUS,Non-Commercial,False,1,0,0,5,Emma Brown,2025/26,100009,Oncology
+2025-01-27 08:03:38,Jan,2025,North Hub,Hilltop Health Centre,HORIZON,Non-Commercial,False,28,22,54,53,Sarah Jones,2024/25,100008,Respiratory
+2025-10-04 17:34:12,Oct,2025,East Hub,Greenfield Practice,ORION,Commercial,False,2,0,0,3,David Smith,2025/26,100001,Mental Health
+2025-09-26 12:17:33,Sep,2025,West Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,30,10,30,24,Sarah Jones,2025/26,100006,Diabetes
+2024-11-16 08:50:49,Nov,2024,North Hub,St Mary's Surgery,NOVA,Commercial,True,14,3,5,6,James Patel,2024/25,100004,Dermatology
+2023-04-02 15:24:14,Apr,2023,North Hub,St Mary's Surgery,GALAXY,Commercial,True,6,5,16,9,Emma Brown,2023/24,100002,Mental Health
+2024-09-01 15:36:30,Sep,2024,East Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,24,15,40,18,Sarah Jones,2024/25,100008,Oncology
+2024-09-16 16:23:53,Sep,2024,Central Hub,Riverside Medical Centre,ASTRA,Commercial,False,10,8,30,14,Emma Brown,2024/25,100000,Respiratory
+2023-04-16 13:41:27,Apr,2023,Central Hub,Hilltop Health Centre,NOVA,Commercial,True,28,10,32,12,David Smith,2023/24,100004,Primary Care
+2026-10-24 14:19:17,Oct,2026,West Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,25,0,0,4,David Smith,2026/27,100008,Oncology
+2025-10-25 15:14:13,Oct,2025,West Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,19,12,30,15,Michael Taylor,2025/26,100006,Dermatology
+2023-07-06 12:47:00,Jul,2023,South Hub,Willowbrook Practice,DISCOVER,Non-Commercial,True,3,1,2,3,James Patel,2023/24,100006,Primary Care
+2024-01-09 11:03:22,Jan,2024,West Hub,St Mary's Surgery,IMPACT,Non-Commercial,False,15,10,34,13,Rachel White,2023/24,100007,Dermatology
+2026-12-24 14:46:14,Dec,2026,North Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,True,0,1,1,2,James Patel,2026/27,100005,Dermatology
+2024-03-24 08:24:07,Mar,2024,West Hub,Greenfield Practice,FOCUS,Non-Commercial,False,7,5,6,13,Tom Evans,2023/24,100009,Oncology
+2023-06-20 15:26:16,Jun,2023,North Hub,Hilltop Health Centre,ASTRA,Commercial,False,0,0,0,2,David Smith,2023/24,100000,Oncology
+2024-03-01 10:37:18,Mar,2024,Central Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,0,1,1,3,Emma Brown,2023/24,100007,Primary Care
+2025-09-11 11:16:42,Sep,2025,East Hub,Greenfield Practice,NOVA,Commercial,True,20,20,38,41,Rachel White,2025/26,100004,Diabetes
+2024-07-11 13:49:21,Jul,2024,Central Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,6,1,1,3,Tom Evans,2024/25,100006,Neurology
+2025-09-16 14:37:59,Sep,2025,West Hub,Greenfield Practice,FOCUS,Non-Commercial,False,19,7,18,21,Rachel White,2025/26,100009,Neurology
+2024-09-20 15:20:33,Sep,2024,South Hub,Willowbrook Practice,DISCOVER,Non-Commercial,True,24,17,66,44,Sophie Wilson,2024/25,100006,Dermatology
+2026-09-09 13:12:46,Sep,2026,East Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,6,4,14,5,Rachel White,2026/27,100009,Respiratory
+2026-05-06 09:22:32,May,2026,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,3,3,12,7,Sophie Wilson,2026/27,100006,Oncology
+2023-12-02 14:18:03,Dec,2023,East Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,True,3,1,2,1,Tom Evans,2023/24,100005,Neurology
+2025-06-07 09:05:28,Jun,2025,South Hub,The Orchard Surgery,PULSE,Commercial,True,17,4,4,7,Rachel White,2025/26,100003,Respiratory
+2026-08-23 13:01:02,Aug,2026,East Hub,Oakwood Surgery,HORIZON,Non-Commercial,True,8,0,0,5,Michael Taylor,2026/27,100008,Diabetes
+2026-06-26 11:09:15,Jun,2026,Central Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,26,6,14,11,James Patel,2026/27,100007,Neurology
+2026-07-18 08:47:19,Jul,2026,West Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,18,7,24,21,Emma Brown,2026/27,100009,Primary Care
+2026-08-09 08:41:09,Aug,2026,East Hub,Park View Medical Practice,ORION,Commercial,False,8,8,12,10,David Smith,2026/27,100001,Primary Care
+2025-06-20 10:23:09,Jun,2025,South Hub,Willowbrook Practice,INSIGHT,Non-Commercial,True,15,11,15,22,Michael Taylor,2025/26,100005,Respiratory
+2024-10-17 17:30:04,Oct,2024,West Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,26,22,66,50,Tom Evans,2024/25,100005,Cardiology
+2026-10-17 15:44:00,Oct,2026,East Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,15,12,31,31,Rachel White,2026/27,100009,Mental Health
+2023-07-01 13:15:35,Jul,2023,West Hub,Hilltop Health Centre,GALAXY,Commercial,True,2,2,4,6,David Smith,2023/24,100002,Oncology
+2025-02-25 10:44:49,Feb,2025,South Hub,Meadow Lane Surgery,DISCOVER,Non-Commercial,False,24,13,49,22,Rachel White,2024/25,100006,Respiratory
+2025-01-25 12:34:25,Jan,2025,South Hub,The Orchard Surgery,ASTRA,Commercial,False,0,1,2,3,David Smith,2024/25,100000,Neurology
+2026-12-26 09:14:28,Dec,2026,East Hub,Oakwood Surgery,HORIZON,Non-Commercial,False,18,0,0,2,Rachel White,2026/27,100008,Dermatology
+2023-06-21 14:50:26,Jun,2023,West Hub,Hilltop Health Centre,HORIZON,Non-Commercial,True,27,25,100,53,Emma Brown,2023/24,100008,Respiratory
+2025-09-13 13:53:54,Sep,2025,West Hub,St Mary's Surgery,IMPACT,Non-Commercial,True,23,22,38,60,James Patel,2025/26,100007,Dermatology
+2026-11-22 13:02:44,Nov,2026,West Hub,Lakeside Health Centre,NOVA,Commercial,False,9,7,17,11,James Patel,2026/27,100004,Respiratory
+2026-09-26 14:50:09,Sep,2026,West Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,17,2,2,2,Tom Evans,2026/27,100008,Primary Care
+2023-10-06 10:32:44,Oct,2023,Central Hub,Willowbrook Practice,ASTRA,Commercial,False,9,7,10,21,Tom Evans,2023/24,100000,Cardiology
+2026-09-02 09:38:27,Sep,2026,East Hub,Hilltop Health Centre,PULSE,Commercial,True,2,1,3,2,Michael Taylor,2026/27,100003,Diabetes
+2023-04-04 12:15:17,Apr,2023,North Hub,Park View Medical Practice,PULSE,Commercial,True,28,7,11,9,James Patel,2023/24,100003,Respiratory
+2026-02-03 16:30:05,Feb,2026,East Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,25,9,16,14,Tom Evans,2025/26,100008,Primary Care
+2024-11-24 08:00:11,Nov,2024,North Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,4,3,11,9,Sarah Jones,2024/25,100006,Primary Care
+2023-01-25 12:23:19,Jan,2023,North Hub,The Orchard Surgery,ASTRA,Commercial,True,14,10,14,20,James Patel,2022/23,100000,Neurology
+2024-01-07 09:31:22,Jan,2024,East Hub,Greenfield Practice,ASTRA,Commercial,True,18,5,6,14,James Patel,2023/24,100000,Diabetes
+2023-10-28 14:14:54,Oct,2023,Central Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,2,0,0,5,James Patel,2023/24,100007,Diabetes
+2023-10-23 15:50:04,Oct,2023,West Hub,Meadow Lane Surgery,ASTRA,Commercial,False,24,7,19,14,Emma Brown,2023/24,100000,Dermatology
+2025-08-22 17:37:48,Aug,2025,North Hub,Hilltop Health Centre,FOCUS,Non-Commercial,True,6,2,5,4,Tom Evans,2025/26,100009,Respiratory
+2026-06-04 11:18:30,Jun,2026,East Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,30,30,95,65,Tom Evans,2026/27,100007,Respiratory
+2023-09-12 10:13:13,Sep,2023,West Hub,Meadow Lane Surgery,PULSE,Commercial,True,25,8,10,23,Rachel White,2023/24,100003,Respiratory
+2024-09-05 10:44:22,Sep,2024,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,14,2,7,2,Sophie Wilson,2024/25,100006,Primary Care
+2026-08-12 10:51:04,Aug,2026,East Hub,St Mary's Surgery,PULSE,Commercial,False,23,17,46,49,James Patel,2026/27,100003,Mental Health
+2025-09-11 17:05:51,Sep,2025,East Hub,Hilltop Health Centre,GALAXY,Commercial,True,29,27,101,49,Rachel White,2025/26,100002,Primary Care
+2026-06-03 09:45:03,Jun,2026,East Hub,St Mary's Surgery,NOVA,Commercial,True,4,4,13,8,Rachel White,2026/27,100004,Respiratory
+2023-07-01 11:39:39,Jul,2023,East Hub,St Mary's Surgery,ORION,Commercial,False,2,1,3,3,Tom Evans,2023/24,100001,Cardiology
+2026-09-15 10:55:12,Sep,2026,North Hub,Greenfield Practice,HORIZON,Non-Commercial,False,16,2,2,4,Sophie Wilson,2026/27,100008,Primary Care
+2026-01-09 08:12:46,Jan,2026,South Hub,Greenfield Practice,ASTRA,Commercial,True,7,1,1,3,Sarah Jones,2025/26,100000,Primary Care
+2024-11-17 10:55:34,Nov,2024,East Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,8,7,22,11,Rachel White,2024/25,100007,Cardiology
+2025-08-21 14:40:41,Aug,2025,South Hub,St Mary's Surgery,GALAXY,Commercial,True,25,21,24,47,Emma Brown,2025/26,100002,Diabetes
+2026-09-21 09:06:04,Sep,2026,North Hub,Park View Medical Practice,GALAXY,Commercial,True,2,1,1,3,Rachel White,2026/27,100002,Dermatology
+2026-05-24 13:07:31,May,2026,West Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,23,20,28,51,Sophie Wilson,2026/27,100006,Oncology
+2024-01-06 10:21:32,Jan,2024,North Hub,Greenfield Practice,FOCUS,Non-Commercial,False,26,7,10,7,David Smith,2023/24,100009,Respiratory
+2025-05-03 11:30:36,May,2025,East Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,23,13,43,21,James Patel,2025/26,100008,Mental Health
+2025-07-02 16:10:19,Jul,2025,South Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,True,21,11,26,17,Sophie Wilson,2025/26,100009,Primary Care
+2025-12-21 15:53:20,Dec,2025,East Hub,Meadow Lane Surgery,ORION,Commercial,True,15,11,27,16,Tom Evans,2025/26,100001,Neurology
+2026-01-21 11:31:04,Jan,2026,North Hub,Lakeside Health Centre,NOVA,Commercial,True,23,8,25,21,Sarah Jones,2025/26,100004,Neurology
+2026-08-04 14:41:54,Aug,2026,North Hub,Greenfield Practice,GALAXY,Commercial,False,14,13,37,34,David Smith,2026/27,100002,Mental Health
+2023-04-26 12:30:58,Apr,2023,North Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,27,10,29,26,David Smith,2023/24,100009,Cardiology
+2025-06-15 11:57:33,Jun,2025,Central Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,True,7,7,22,15,Sophie Wilson,2025/26,100006,Mental Health
+2023-04-02 14:46:44,Apr,2023,North Hub,The Orchard Surgery,DISCOVER,Non-Commercial,True,17,9,17,16,Emma Brown,2023/24,100006,Respiratory
+2024-04-25 13:47:22,Apr,2024,North Hub,Oakwood Surgery,NOVA,Commercial,False,21,0,0,5,David Smith,2024/25,100004,Neurology
+2023-11-05 08:14:02,Nov,2023,South Hub,Hilltop Health Centre,PULSE,Commercial,True,9,1,2,1,Tom Evans,2023/24,100003,Dermatology
+2025-08-01 14:34:35,Aug,2025,North Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,1,1,3,2,Tom Evans,2025/26,100007,Neurology
+2024-01-11 13:39:50,Jan,2024,West Hub,Lakeside Health Centre,ASTRA,Commercial,True,29,17,23,37,Tom Evans,2023/24,100000,Primary Care
+2023-08-14 16:50:18,Aug,2023,East Hub,Willowbrook Practice,ORION,Commercial,False,11,1,1,1,Sarah Jones,2023/24,100001,Neurology
+2023-03-17 09:41:45,Mar,2023,South Hub,Lakeside Health Centre,PULSE,Commercial,True,0,0,0,0,David Smith,2022/23,100003,Primary Care
+2026-09-28 13:15:23,Sep,2026,North Hub,Willowbrook Practice,ASTRA,Commercial,True,23,6,17,11,Emma Brown,2026/27,100000,Diabetes
+2023-01-07 13:41:06,Jan,2023,East Hub,Hilltop Health Centre,ASTRA,Commercial,True,26,15,45,36,David Smith,2022/23,100000,Primary Care
+2024-11-05 11:10:08,Nov,2024,Central Hub,Park View Medical Practice,NOVA,Commercial,False,16,5,12,8,James Patel,2024/25,100004,Respiratory
+2026-04-03 08:55:14,Apr,2026,South Hub,Lakeside Health Centre,ORION,Commercial,False,6,0,0,0,Sophie Wilson,2026/27,100001,Respiratory
+2023-09-12 16:55:18,Sep,2023,Central Hub,Willowbrook Practice,NOVA,Commercial,False,4,3,4,4,Emma Brown,2023/24,100004,Neurology
+2024-06-15 11:08:10,Jun,2024,West Hub,Meadow Lane Surgery,NOVA,Commercial,True,13,12,43,32,Tom Evans,2024/25,100004,Dermatology
+2024-08-09 14:03:15,Aug,2024,East Hub,Greenfield Practice,GALAXY,Commercial,False,14,4,13,7,David Smith,2024/25,100002,Primary Care
+2026-09-18 15:14:08,Sep,2026,Central Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,6,0,0,0,Michael Taylor,2026/27,100005,Primary Care
+2023-10-09 16:25:29,Oct,2023,North Hub,Riverside Medical Centre,NOVA,Commercial,True,13,8,15,19,Sophie Wilson,2023/24,100004,Diabetes
+2023-05-07 13:36:36,May,2023,North Hub,Meadow Lane Surgery,PULSE,Commercial,False,7,0,0,0,Sarah Jones,2023/24,100003,Neurology
+2026-10-08 11:50:08,Oct,2026,East Hub,St Mary's Surgery,HORIZON,Non-Commercial,True,8,7,8,14,David Smith,2026/27,100008,Diabetes
+2023-09-05 10:52:44,Sep,2023,East Hub,Lakeside Health Centre,NOVA,Commercial,False,4,3,3,7,Tom Evans,2023/24,100004,Oncology
+2026-09-28 16:16:40,Sep,2026,West Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,27,1,3,1,James Patel,2026/27,100006,Dermatology
+2025-01-19 10:47:42,Jan,2025,Central Hub,Oakwood Surgery,PULSE,Commercial,False,15,14,33,40,Tom Evans,2024/25,100003,Cardiology
+2023-03-18 14:21:24,Mar,2023,Central Hub,St Mary's Surgery,GALAXY,Commercial,False,2,0,0,4,Sarah Jones,2022/23,100002,Cardiology
+2023-01-22 12:05:13,Jan,2023,Central Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,27,17,66,40,Tom Evans,2022/23,100008,Dermatology
+2025-05-04 16:23:17,May,2025,East Hub,Hilltop Health Centre,HORIZON,Non-Commercial,False,27,4,12,5,Tom Evans,2025/26,100008,Cardiology
+2023-01-11 17:56:45,Jan,2023,Central Hub,Oakwood Surgery,ORION,Commercial,True,14,11,41,22,James Patel,2022/23,100001,Dermatology
+2023-01-24 08:29:07,Jan,2023,West Hub,Meadow Lane Surgery,ORION,Commercial,False,17,16,43,18,Sophie Wilson,2022/23,100001,Neurology
+2023-06-28 15:15:52,Jun,2023,North Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,True,20,4,4,5,Rachel White,2023/24,100005,Diabetes
+2025-02-22 13:39:43,Feb,2025,Central Hub,St Mary's Surgery,IMPACT,Non-Commercial,False,18,4,5,9,Michael Taylor,2024/25,100007,Dermatology
+2024-02-01 14:55:40,Feb,2024,South Hub,Meadow Lane Surgery,ASTRA,Commercial,True,11,7,24,21,Rachel White,2023/24,100000,Dermatology
+2024-04-07 12:30:57,Apr,2024,South Hub,St Mary's Surgery,ORION,Commercial,False,8,5,9,8,Tom Evans,2024/25,100001,Diabetes
+2023-02-16 14:22:44,Feb,2023,Central Hub,Lakeside Health Centre,PULSE,Commercial,False,16,1,1,2,James Patel,2022/23,100003,Neurology
+2024-04-14 09:08:57,Apr,2024,West Hub,Willowbrook Practice,ASTRA,Commercial,True,25,8,15,24,James Patel,2024/25,100000,Neurology
+2025-12-20 09:44:49,Dec,2025,South Hub,Lakeside Health Centre,ORION,Commercial,True,0,0,0,5,Tom Evans,2025/26,100001,Cardiology
+2024-02-13 10:17:26,Feb,2024,North Hub,Greenfield Practice,ORION,Commercial,True,5,5,10,5,Michael Taylor,2023/24,100001,Respiratory
+2024-10-04 10:04:27,Oct,2024,Central Hub,Hilltop Health Centre,GALAXY,Commercial,True,12,5,16,14,James Patel,2024/25,100002,Primary Care
+2024-09-04 13:46:59,Sep,2024,Central Hub,Riverside Medical Centre,GALAXY,Commercial,True,25,22,64,29,Emma Brown,2024/25,100002,Dermatology
+2023-03-11 08:48:39,Mar,2023,West Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,15,10,19,20,Rachel White,2022/23,100006,Neurology
+2023-12-10 16:39:57,Dec,2023,West Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,False,5,0,0,3,Sarah Jones,2023/24,100005,Mental Health
+2026-10-08 10:59:13,Oct,2026,Central Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,7,4,6,4,Sarah Jones,2026/27,100006,Cardiology
+2023-12-19 10:05:19,Dec,2023,North Hub,St Mary's Surgery,GALAXY,Commercial,False,7,6,16,16,James Patel,2023/24,100002,Primary Care
+2026-04-08 10:13:05,Apr,2026,East Hub,Hilltop Health Centre,IMPACT,Non-Commercial,False,13,4,13,4,Sarah Jones,2026/27,100007,Mental Health
+2024-04-27 15:27:53,Apr,2024,North Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,24,9,36,19,James Patel,2024/25,100006,Cardiology
+2025-12-19 11:57:17,Dec,2025,Central Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,7,4,13,7,Michael Taylor,2025/26,100006,Respiratory
+2026-04-19 12:42:46,Apr,2026,East Hub,St Mary's Surgery,IMPACT,Non-Commercial,False,10,8,25,9,Emma Brown,2026/27,100007,Diabetes
+2026-11-16 09:34:41,Nov,2026,South Hub,Meadow Lane Surgery,DISCOVER,Non-Commercial,False,16,4,6,12,Rachel White,2026/27,100006,Primary Care
+2024-06-08 15:39:50,Jun,2024,South Hub,The Orchard Surgery,ASTRA,Commercial,True,16,5,5,11,Sophie Wilson,2024/25,100000,Dermatology
+2024-03-08 13:47:47,Mar,2024,West Hub,Willowbrook Practice,INSIGHT,Non-Commercial,True,2,2,5,3,Michael Taylor,2023/24,100005,Respiratory
+2023-06-21 11:02:45,Jun,2023,East Hub,Willowbrook Practice,ORION,Commercial,False,25,10,34,16,Sophie Wilson,2023/24,100001,Diabetes
+2024-09-24 12:39:27,Sep,2024,South Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,True,16,6,19,6,Sophie Wilson,2024/25,100009,Mental Health
+2026-02-28 12:30:35,Feb,2026,South Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,3,2,8,5,Sophie Wilson,2025/26,100005,Neurology
+2026-11-03 11:07:28,Nov,2026,South Hub,The Orchard Surgery,ASTRA,Commercial,True,0,1,1,2,James Patel,2026/27,100000,Cardiology
+2024-01-17 17:32:11,Jan,2024,Central Hub,St Mary's Surgery,PULSE,Commercial,True,7,2,2,4,Michael Taylor,2023/24,100003,Neurology
+2026-02-25 13:46:46,Feb,2026,West Hub,Meadow Lane Surgery,NOVA,Commercial,False,25,16,30,16,Tom Evans,2025/26,100004,Oncology
+2024-03-28 14:30:25,Mar,2024,North Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,16,15,18,39,Michael Taylor,2023/24,100007,Diabetes
+2026-06-14 17:56:16,Jun,2026,South Hub,Willowbrook Practice,INSIGHT,Non-Commercial,True,11,5,11,14,Sarah Jones,2026/27,100005,Cardiology
+2025-07-21 11:30:02,Jul,2025,North Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,17,13,29,13,David Smith,2025/26,100007,Respiratory
+2024-01-05 09:00:52,Jan,2024,West Hub,Hilltop Health Centre,ORION,Commercial,True,22,19,31,40,James Patel,2023/24,100001,Neurology
+2026-08-18 10:01:28,Aug,2026,Central Hub,The Orchard Surgery,PULSE,Commercial,False,20,3,5,7,Sarah Jones,2026/27,100003,Cardiology
+2025-04-20 13:55:48,Apr,2025,West Hub,Willowbrook Practice,GALAXY,Commercial,False,20,11,17,22,David Smith,2025/26,100002,Diabetes
+2023-06-09 14:10:35,Jun,2023,West Hub,Riverside Medical Centre,ASTRA,Commercial,True,8,6,7,14,James Patel,2023/24,100000,Neurology
+2025-06-26 13:00:45,Jun,2025,North Hub,Willowbrook Practice,ASTRA,Commercial,False,11,1,3,2,Sophie Wilson,2025/26,100000,Diabetes
+2023-03-05 12:16:50,Mar,2023,East Hub,Riverside Medical Centre,ORION,Commercial,False,17,7,15,18,Michael Taylor,2022/23,100001,Mental Health
+2026-10-03 11:37:01,Oct,2026,West Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,7,7,20,16,Emma Brown,2026/27,100009,Cardiology
+2023-02-13 13:37:19,Feb,2023,South Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,True,28,7,15,13,Emma Brown,2022/23,100005,Respiratory
+2025-02-04 14:53:38,Feb,2025,North Hub,The Orchard Surgery,ORION,Commercial,False,26,4,15,8,Emma Brown,2024/25,100001,Respiratory
+2025-07-11 12:05:39,Jul,2025,West Hub,Greenfield Practice,IMPACT,Non-Commercial,False,5,0,0,0,Sophie Wilson,2025/26,100007,Primary Care
+2026-12-09 11:42:07,Dec,2026,Central Hub,Greenfield Practice,ASTRA,Commercial,True,30,0,0,0,Tom Evans,2026/27,100000,Dermatology
+2025-01-10 09:06:23,Jan,2025,East Hub,St Mary's Surgery,ORION,Commercial,False,20,11,21,21,Michael Taylor,2024/25,100001,Diabetes
+2025-12-20 14:50:52,Dec,2025,East Hub,Riverside Medical Centre,IMPACT,Non-Commercial,False,20,2,2,4,Tom Evans,2025/26,100007,Neurology
+2024-01-22 08:53:27,Jan,2024,West Hub,Oakwood Surgery,ASTRA,Commercial,False,28,15,24,37,Rachel White,2023/24,100000,Cardiology
+2024-11-01 10:23:52,Nov,2024,North Hub,Riverside Medical Centre,PULSE,Commercial,True,28,13,32,25,James Patel,2024/25,100003,Neurology
+2025-06-04 12:22:44,Jun,2025,East Hub,Willowbrook Practice,DISCOVER,Non-Commercial,False,12,8,19,14,Rachel White,2025/26,100006,Oncology
+2025-09-12 11:15:59,Sep,2025,South Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,22,8,20,11,James Patel,2025/26,100006,Cardiology
+2025-12-10 09:13:02,Dec,2025,Central Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,0,0,0,3,David Smith,2025/26,100007,Respiratory
+2026-02-24 10:11:06,Feb,2026,South Hub,St Mary's Surgery,IMPACT,Non-Commercial,True,3,0,0,2,Sarah Jones,2025/26,100007,Primary Care
+2024-12-28 09:54:25,Dec,2024,Central Hub,The Orchard Surgery,NOVA,Commercial,False,4,1,4,1,Rachel White,2024/25,100004,Primary Care
+2023-08-23 13:05:24,Aug,2023,South Hub,Park View Medical Practice,NOVA,Commercial,True,27,24,33,51,David Smith,2023/24,100004,Mental Health
+2023-10-15 17:36:54,Oct,2023,West Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,18,3,10,8,James Patel,2023/24,100008,Primary Care
+2026-06-18 17:20:19,Jun,2026,East Hub,Lakeside Health Centre,ORION,Commercial,True,11,11,41,29,Sarah Jones,2026/27,100001,Respiratory
+2026-04-09 09:35:05,Apr,2026,Central Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,22,13,21,29,James Patel,2026/27,100008,Dermatology
+2026-03-11 16:51:48,Mar,2026,South Hub,Riverside Medical Centre,ORION,Commercial,False,18,17,66,17,Rachel White,2025/26,100001,Oncology
+2025-06-17 11:50:37,Jun,2025,North Hub,Park View Medical Practice,NOVA,Commercial,False,6,6,16,13,David Smith,2025/26,100004,Diabetes
+2026-04-26 11:00:08,Apr,2026,Central Hub,Meadow Lane Surgery,NOVA,Commercial,False,15,1,1,1,Sophie Wilson,2026/27,100004,Dermatology
+2024-05-18 17:09:39,May,2024,East Hub,Hilltop Health Centre,GALAXY,Commercial,True,6,2,4,6,James Patel,2024/25,100002,Primary Care
+2024-03-09 08:41:35,Mar,2024,West Hub,Park View Medical Practice,IMPACT,Non-Commercial,True,4,4,8,4,Sophie Wilson,2023/24,100007,Oncology
+2025-03-27 10:58:07,Mar,2025,East Hub,Lakeside Health Centre,IMPACT,Non-Commercial,True,2,0,0,3,David Smith,2024/25,100007,Neurology
+2025-06-09 16:00:34,Jun,2025,East Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,0,1,3,2,Rachel White,2025/26,100008,Cardiology
+2025-06-16 14:35:37,Jun,2025,Central Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,22,7,19,9,Rachel White,2025/26,100008,Primary Care
+2026-02-15 08:31:10,Feb,2026,East Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,False,29,26,66,45,Michael Taylor,2025/26,100006,Neurology
+2025-09-08 17:06:04,Sep,2025,Central Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,9,8,24,24,Emma Brown,2025/26,100009,Oncology
+2024-06-05 10:51:25,Jun,2024,Central Hub,Oakwood Surgery,HORIZON,Non-Commercial,True,10,3,5,7,Michael Taylor,2024/25,100008,Diabetes
+2024-07-10 10:41:29,Jul,2024,West Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,30,15,15,28,Sophie Wilson,2024/25,100009,Neurology
+2026-07-25 08:46:06,Jul,2026,South Hub,Greenfield Practice,ASTRA,Commercial,False,28,27,30,62,James Patel,2026/27,100000,Oncology
+2025-11-04 13:02:06,Nov,2025,West Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,11,3,8,8,Emma Brown,2025/26,100007,Neurology
+2024-05-08 17:55:28,May,2024,North Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,True,29,19,62,36,Emma Brown,2024/25,100006,Diabetes
+2023-02-14 14:02:16,Feb,2023,Central Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,True,24,23,61,68,Sophie Wilson,2022/23,100008,Mental Health
+2025-12-09 08:42:35,Dec,2025,South Hub,Willowbrook Practice,PULSE,Commercial,False,30,18,55,23,Michael Taylor,2025/26,100003,Cardiology
+2024-01-28 16:49:31,Jan,2024,South Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,False,8,4,15,7,Sarah Jones,2023/24,100005,Neurology
+2023-11-18 16:02:17,Nov,2023,Central Hub,Park View Medical Practice,PULSE,Commercial,False,4,3,8,4,Emma Brown,2023/24,100003,Dermatology
+2026-05-23 17:02:57,May,2026,East Hub,Willowbrook Practice,IMPACT,Non-Commercial,False,5,5,6,7,James Patel,2026/27,100007,Dermatology
+2024-09-23 08:39:19,Sep,2024,South Hub,Meadow Lane Surgery,GALAXY,Commercial,False,17,1,1,1,Emma Brown,2024/25,100002,Neurology
+2026-07-15 13:47:19,Jul,2026,North Hub,Meadow Lane Surgery,ASTRA,Commercial,False,20,3,11,8,James Patel,2026/27,100000,Neurology
+2025-07-15 08:35:44,Jul,2025,West Hub,Riverside Medical Centre,IMPACT,Non-Commercial,True,20,18,51,50,David Smith,2025/26,100007,Respiratory
+2023-11-26 13:32:03,Nov,2023,East Hub,Meadow Lane Surgery,GALAXY,Commercial,True,6,6,7,12,James Patel,2023/24,100002,Mental Health
+2024-10-11 11:32:01,Oct,2024,South Hub,Lakeside Health Centre,ASTRA,Commercial,False,17,0,0,1,David Smith,2024/25,100000,Oncology
+2025-07-07 08:11:02,Jul,2025,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,True,16,4,6,7,Sophie Wilson,2025/26,100005,Dermatology
+2025-07-08 09:32:07,Jul,2025,South Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,19,3,3,9,Michael Taylor,2025/26,100008,Oncology
+2025-12-10 11:54:17,Dec,2025,North Hub,Lakeside Health Centre,IMPACT,Non-Commercial,False,29,14,53,33,Sophie Wilson,2025/26,100007,Dermatology
+2025-03-02 08:10:15,Mar,2025,North Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,True,26,0,0,1,James Patel,2024/25,100009,Mental Health
+2023-07-01 09:08:29,Jul,2023,East Hub,Hilltop Health Centre,PULSE,Commercial,False,11,4,7,5,Tom Evans,2023/24,100003,Neurology
+2026-07-23 17:34:48,Jul,2026,Central Hub,Park View Medical Practice,GALAXY,Commercial,True,11,3,11,4,James Patel,2026/27,100002,Primary Care
+2026-01-12 15:44:00,Jan,2026,Central Hub,Lakeside Health Centre,ORION,Commercial,True,4,1,1,1,Rachel White,2025/26,100001,Oncology
+2026-10-20 09:20:19,Oct,2026,Central Hub,Greenfield Practice,INSIGHT,Non-Commercial,True,22,19,39,37,Tom Evans,2026/27,100005,Neurology
+2024-10-11 08:53:54,Oct,2024,West Hub,Meadow Lane Surgery,ASTRA,Commercial,False,17,1,2,3,Tom Evans,2024/25,100000,Mental Health
+2026-11-16 16:53:22,Nov,2026,Central Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,True,4,0,0,4,Rachel White,2026/27,100005,Cardiology
+2026-09-07 14:39:01,Sep,2026,East Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,True,5,4,10,8,James Patel,2026/27,100008,Oncology
+2024-01-07 13:03:51,Jan,2024,Central Hub,St Mary's Surgery,ASTRA,Commercial,True,6,5,11,7,James Patel,2023/24,100000,Oncology
+2026-04-14 12:41:02,Apr,2026,East Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,27,22,23,55,Michael Taylor,2026/27,100006,Neurology
+2026-04-08 12:27:44,Apr,2026,Central Hub,Lakeside Health Centre,ASTRA,Commercial,True,6,0,0,3,James Patel,2026/27,100000,Oncology
+2023-04-21 12:26:57,Apr,2023,East Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,16,14,47,38,Sarah Jones,2023/24,100005,Dermatology
+2026-01-25 10:27:28,Jan,2026,South Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,25,5,15,15,Sophie Wilson,2025/26,100008,Primary Care
+2023-10-02 08:18:40,Oct,2023,Central Hub,St Mary's Surgery,IMPACT,Non-Commercial,True,22,0,0,5,Michael Taylor,2023/24,100007,Cardiology
+2024-09-05 11:14:13,Sep,2024,South Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,6,6,6,15,Sarah Jones,2024/25,100008,Diabetes
+2025-06-27 14:07:49,Jun,2025,North Hub,Meadow Lane Surgery,ASTRA,Commercial,True,19,18,52,50,Tom Evans,2025/26,100000,Dermatology
+2025-01-10 17:59:44,Jan,2025,Central Hub,Meadow Lane Surgery,PULSE,Commercial,False,16,14,53,31,Sophie Wilson,2024/25,100003,Dermatology
+2026-05-28 16:26:43,May,2026,Central Hub,Riverside Medical Centre,HORIZON,Non-Commercial,True,14,14,22,19,Tom Evans,2026/27,100008,Cardiology
+2024-10-10 16:57:12,Oct,2024,East Hub,Meadow Lane Surgery,ASTRA,Commercial,False,3,1,4,3,Rachel White,2024/25,100000,Mental Health
+2024-07-02 17:04:38,Jul,2024,West Hub,Oakwood Surgery,ASTRA,Commercial,False,17,6,7,9,James Patel,2024/25,100000,Respiratory
+2025-12-07 11:23:50,Dec,2025,South Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,28,25,44,54,James Patel,2025/26,100005,Cardiology
+2023-05-09 11:12:57,May,2023,East Hub,Riverside Medical Centre,FOCUS,Non-Commercial,True,6,1,3,2,James Patel,2023/24,100009,Dermatology
+2023-08-16 09:08:55,Aug,2023,North Hub,Greenfield Practice,INSIGHT,Non-Commercial,True,3,1,1,3,Michael Taylor,2023/24,100005,Mental Health
+2024-02-26 16:13:42,Feb,2024,South Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,False,0,1,4,3,Rachel White,2023/24,100005,Neurology
+2023-11-27 17:18:39,Nov,2023,South Hub,Riverside Medical Centre,HORIZON,Non-Commercial,False,23,11,12,22,James Patel,2023/24,100008,Respiratory
+2024-12-27 09:36:36,Dec,2024,North Hub,Park View Medical Practice,PULSE,Commercial,True,17,8,14,24,Michael Taylor,2024/25,100003,Mental Health
+2025-12-18 11:03:01,Dec,2025,East Hub,Oakwood Surgery,DISCOVER,Non-Commercial,False,9,5,13,14,Rachel White,2025/26,100006,Neurology
+2023-03-22 16:33:47,Mar,2023,West Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,True,6,0,0,5,Tom Evans,2022/23,100005,Mental Health
+2025-09-07 13:42:46,Sep,2025,Central Hub,Willowbrook Practice,ASTRA,Commercial,False,1,0,0,1,David Smith,2025/26,100000,Mental Health
+2023-07-22 13:04:28,Jul,2023,South Hub,Greenfield Practice,NOVA,Commercial,False,18,18,19,52,Sarah Jones,2023/24,100004,Diabetes
+2024-09-10 13:44:03,Sep,2024,North Hub,Lakeside Health Centre,GALAXY,Commercial,True,0,1,4,3,Michael Taylor,2024/25,100002,Oncology
+2024-07-23 11:25:11,Jul,2024,South Hub,Oakwood Surgery,GALAXY,Commercial,False,3,2,6,6,David Smith,2024/25,100002,Cardiology
+2025-04-24 16:47:49,Apr,2025,East Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,18,13,19,19,David Smith,2025/26,100006,Oncology
+2025-06-20 11:19:23,Jun,2025,North Hub,Lakeside Health Centre,ASTRA,Commercial,True,0,1,4,3,Michael Taylor,2025/26,100000,Neurology
+2023-02-13 14:24:19,Feb,2023,North Hub,Hilltop Health Centre,HORIZON,Non-Commercial,True,28,3,7,6,Rachel White,2022/23,100008,Dermatology
+2025-01-04 16:51:44,Jan,2025,Central Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,7,2,4,4,Tom Evans,2024/25,100008,Primary Care
+2024-11-06 17:09:26,Nov,2024,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,30,9,13,10,Michael Taylor,2024/25,100006,Respiratory
+2023-02-27 16:18:16,Feb,2023,West Hub,Greenfield Practice,ORION,Commercial,True,9,3,4,5,Sarah Jones,2022/23,100001,Respiratory
+2026-03-19 14:42:05,Mar,2026,East Hub,Oakwood Surgery,INSIGHT,Non-Commercial,True,21,5,13,9,Sarah Jones,2025/26,100005,Dermatology
+2023-01-02 11:51:31,Jan,2023,North Hub,The Orchard Surgery,ORION,Commercial,False,0,1,1,1,Emma Brown,2022/23,100001,Oncology
+2024-04-01 14:08:54,Apr,2024,North Hub,Willowbrook Practice,INSIGHT,Non-Commercial,True,14,0,0,2,David Smith,2024/25,100005,Neurology
+2023-07-15 15:51:01,Jul,2023,West Hub,Lakeside Health Centre,NOVA,Commercial,True,14,10,16,15,Michael Taylor,2023/24,100004,Primary Care
+2023-01-18 09:55:34,Jan,2023,Central Hub,Willowbrook Practice,HORIZON,Non-Commercial,True,22,8,26,23,David Smith,2022/23,100008,Dermatology
+2025-01-11 13:20:12,Jan,2025,South Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,15,0,0,1,David Smith,2024/25,100006,Mental Health
+2025-04-13 08:39:27,Apr,2025,North Hub,Meadow Lane Surgery,NOVA,Commercial,False,0,1,3,3,Emma Brown,2025/26,100004,Neurology
+2023-07-13 17:00:02,Jul,2023,West Hub,Park View Medical Practice,IMPACT,Non-Commercial,True,19,18,62,44,Rachel White,2023/24,100007,Oncology
+2023-11-22 11:55:34,Nov,2023,North Hub,Oakwood Surgery,INSIGHT,Non-Commercial,True,7,6,10,17,Rachel White,2023/24,100005,Oncology
+2025-01-13 08:37:27,Jan,2025,South Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,27,27,36,76,Rachel White,2024/25,100008,Neurology
+2024-07-04 15:58:37,Jul,2024,Central Hub,St Mary's Surgery,ORION,Commercial,True,29,7,13,14,Sarah Jones,2024/25,100001,Cardiology
+2025-10-07 15:54:53,Oct,2025,East Hub,The Orchard Surgery,ASTRA,Commercial,True,24,7,9,17,Michael Taylor,2025/26,100000,Mental Health
+2024-01-27 16:13:39,Jan,2024,East Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,28,26,59,62,Emma Brown,2023/24,100006,Respiratory
+2025-05-06 17:01:22,May,2025,North Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,22,4,4,8,Rachel White,2025/26,100005,Neurology
+2026-09-18 11:32:24,Sep,2026,East Hub,Riverside Medical Centre,ASTRA,Commercial,False,22,6,18,16,Sarah Jones,2026/27,100000,Neurology
+2025-07-10 16:26:34,Jul,2025,Central Hub,Greenfield Practice,NOVA,Commercial,False,15,7,17,17,Emma Brown,2025/26,100004,Diabetes
+2026-08-11 17:43:58,Aug,2026,South Hub,Park View Medical Practice,GALAXY,Commercial,False,7,7,8,14,Rachel White,2026/27,100002,Dermatology
+2026-04-02 09:21:19,Apr,2026,Central Hub,Park View Medical Practice,PULSE,Commercial,True,7,2,8,6,Sarah Jones,2026/27,100003,Respiratory
+2023-12-14 14:28:57,Dec,2023,West Hub,The Orchard Surgery,DISCOVER,Non-Commercial,True,5,3,5,7,James Patel,2023/24,100006,Diabetes
+2025-07-26 15:21:50,Jul,2025,South Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,12,6,9,9,Sarah Jones,2025/26,100009,Diabetes
+2025-07-05 14:50:45,Jul,2025,Central Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,23,5,8,10,James Patel,2025/26,100009,Diabetes
+2025-06-07 12:26:48,Jun,2025,West Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,True,11,1,4,1,Rachel White,2025/26,100005,Neurology
+2025-05-01 16:17:43,May,2025,East Hub,Meadow Lane Surgery,DISCOVER,Non-Commercial,True,17,2,8,4,James Patel,2025/26,100006,Primary Care
+2025-01-24 08:23:24,Jan,2025,West Hub,Meadow Lane Surgery,NOVA,Commercial,False,20,15,33,29,Michael Taylor,2024/25,100004,Neurology
+2023-09-12 16:59:59,Sep,2023,Central Hub,Riverside Medical Centre,FOCUS,Non-Commercial,True,27,9,18,14,David Smith,2023/24,100009,Mental Health
+2023-04-20 15:12:16,Apr,2023,Central Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,15,3,9,3,James Patel,2023/24,100009,Dermatology
+2023-07-18 11:57:21,Jul,2023,North Hub,Park View Medical Practice,ASTRA,Commercial,False,14,7,27,13,Sarah Jones,2023/24,100000,Primary Care
+2024-05-09 13:38:06,May,2024,West Hub,Oakwood Surgery,ASTRA,Commercial,False,22,15,18,37,Emma Brown,2024/25,100000,Mental Health
+2026-10-20 08:34:59,Oct,2026,East Hub,Park View Medical Practice,HORIZON,Non-Commercial,False,6,2,3,2,David Smith,2026/27,100008,Mental Health
+2026-02-04 10:43:43,Feb,2026,West Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,22,18,34,28,Tom Evans,2025/26,100006,Respiratory
+2023-10-09 13:33:52,Oct,2023,East Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,16,0,0,3,Michael Taylor,2023/24,100007,Respiratory
+2024-08-24 14:45:49,Aug,2024,North Hub,Meadow Lane Surgery,PULSE,Commercial,True,29,1,1,2,Emma Brown,2024/25,100003,Respiratory
+2025-02-08 09:35:30,Feb,2025,North Hub,St Mary's Surgery,IMPACT,Non-Commercial,True,10,7,25,18,Sophie Wilson,2024/25,100007,Respiratory
+2024-09-20 17:56:27,Sep,2024,Central Hub,Riverside Medical Centre,NOVA,Commercial,True,20,0,0,2,Emma Brown,2024/25,100004,Diabetes
+2023-02-05 11:41:16,Feb,2023,Central Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,True,24,0,0,2,Rachel White,2022/23,100006,Primary Care
+2026-10-09 08:23:19,Oct,2026,West Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,True,28,11,33,14,James Patel,2026/27,100008,Primary Care
+2024-09-20 10:49:47,Sep,2024,North Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,1,0,0,4,Emma Brown,2024/25,100007,Diabetes
+2023-09-12 13:47:40,Sep,2023,Central Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,6,2,7,6,Michael Taylor,2023/24,100006,Respiratory
+2025-01-10 12:35:21,Jan,2025,East Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,14,13,23,16,Rachel White,2024/25,100007,Primary Care
+2025-12-08 11:41:56,Dec,2025,Central Hub,Willowbrook Practice,NOVA,Commercial,True,23,3,7,4,Sophie Wilson,2025/26,100004,Respiratory
+2025-07-16 08:29:16,Jul,2025,North Hub,The Orchard Surgery,ASTRA,Commercial,True,21,19,39,33,David Smith,2025/26,100000,Cardiology
+2026-02-04 09:27:08,Feb,2026,North Hub,Lakeside Health Centre,IMPACT,Non-Commercial,True,10,0,0,3,Tom Evans,2025/26,100007,Neurology
+2024-06-27 13:08:18,Jun,2024,North Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,24,18,47,52,James Patel,2024/25,100009,Cardiology
+2024-08-15 15:58:59,Aug,2024,South Hub,St Mary's Surgery,DISCOVER,Non-Commercial,False,27,13,42,35,Rachel White,2024/25,100006,Neurology
+2024-07-23 17:30:37,Jul,2024,North Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,13,13,44,18,Rachel White,2024/25,100009,Diabetes
+2024-12-20 14:42:06,Dec,2024,Central Hub,Meadow Lane Surgery,NOVA,Commercial,True,5,0,0,2,Rachel White,2024/25,100004,Primary Care
+2026-02-26 15:52:16,Feb,2026,South Hub,Oakwood Surgery,PULSE,Commercial,False,10,10,32,12,Sarah Jones,2025/26,100003,Dermatology
+2023-03-14 13:38:05,Mar,2023,Central Hub,Lakeside Health Centre,PULSE,Commercial,True,20,14,15,23,Michael Taylor,2022/23,100003,Dermatology
+2025-09-03 15:27:22,Sep,2025,South Hub,St Mary's Surgery,INSIGHT,Non-Commercial,True,2,2,4,6,Sarah Jones,2025/26,100005,Cardiology
+2025-12-21 13:44:52,Dec,2025,East Hub,Riverside Medical Centre,GALAXY,Commercial,False,21,7,26,8,Emma Brown,2025/26,100002,Neurology
+2023-09-23 14:12:42,Sep,2023,West Hub,Park View Medical Practice,FOCUS,Non-Commercial,True,3,3,12,3,Sarah Jones,2023/24,100009,Oncology
+2025-10-07 17:54:20,Oct,2025,Central Hub,Park View Medical Practice,FOCUS,Non-Commercial,True,29,11,43,30,Rachel White,2025/26,100009,Mental Health
+2025-03-19 11:05:02,Mar,2025,North Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,False,5,0,0,5,Michael Taylor,2024/25,100008,Dermatology
+2025-05-10 08:28:19,May,2025,Central Hub,Park View Medical Practice,GALAXY,Commercial,False,10,0,0,4,James Patel,2025/26,100002,Diabetes
+2024-11-16 17:32:18,Nov,2024,East Hub,Park View Medical Practice,INSIGHT,Non-Commercial,False,19,10,35,15,Tom Evans,2024/25,100005,Mental Health
+2024-09-24 15:49:47,Sep,2024,Central Hub,Riverside Medical Centre,ORION,Commercial,False,5,2,3,6,James Patel,2024/25,100001,Respiratory
+2025-01-26 10:14:07,Jan,2025,East Hub,Hilltop Health Centre,NOVA,Commercial,True,24,3,5,7,James Patel,2024/25,100004,Respiratory
+2026-07-14 12:58:08,Jul,2026,East Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,18,0,0,2,James Patel,2026/27,100005,Dermatology
+2025-11-28 14:15:54,Nov,2025,East Hub,Hilltop Health Centre,NOVA,Commercial,True,18,12,22,35,Rachel White,2025/26,100004,Dermatology
+2025-01-24 15:23:18,Jan,2025,North Hub,St Mary's Surgery,ORION,Commercial,False,2,2,7,2,Sarah Jones,2024/25,100001,Diabetes
+2023-06-06 17:46:16,Jun,2023,East Hub,Hilltop Health Centre,NOVA,Commercial,True,24,24,47,42,David Smith,2023/24,100004,Cardiology
+2026-01-02 09:36:10,Jan,2026,North Hub,Hilltop Health Centre,NOVA,Commercial,True,15,6,19,17,Michael Taylor,2025/26,100004,Respiratory
+2024-09-08 15:49:51,Sep,2024,West Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,True,14,1,1,2,David Smith,2024/25,100005,Diabetes
+2024-10-25 14:00:52,Oct,2024,West Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,True,10,9,22,21,Emma Brown,2024/25,100005,Primary Care
+2023-08-03 08:14:59,Aug,2023,North Hub,Hilltop Health Centre,IMPACT,Non-Commercial,True,16,0,0,3,Sarah Jones,2023/24,100007,Neurology
+2023-06-15 11:26:38,Jun,2023,Central Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,9,7,12,15,Sophie Wilson,2023/24,100005,Dermatology
+2024-06-03 09:42:37,Jun,2024,South Hub,St Mary's Surgery,PULSE,Commercial,False,22,9,32,12,David Smith,2024/25,100003,Cardiology
+2026-05-04 16:39:38,May,2026,North Hub,Willowbrook Practice,GALAXY,Commercial,False,6,3,7,7,Tom Evans,2026/27,100002,Cardiology
+2025-10-18 10:16:27,Oct,2025,North Hub,Willowbrook Practice,IMPACT,Non-Commercial,False,16,1,1,1,Emma Brown,2025/26,100007,Mental Health
+2026-02-08 09:28:24,Feb,2026,North Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,18,1,4,1,James Patel,2025/26,100006,Oncology
+2023-05-13 11:46:15,May,2023,West Hub,Park View Medical Practice,HORIZON,Non-Commercial,True,4,1,4,3,Rachel White,2023/24,100008,Diabetes
+2025-07-10 14:33:42,Jul,2025,East Hub,The Orchard Surgery,FOCUS,Non-Commercial,False,15,11,11,19,Sarah Jones,2025/26,100009,Cardiology
+2025-10-01 12:28:55,Oct,2025,North Hub,The Orchard Surgery,INSIGHT,Non-Commercial,True,19,19,65,41,Rachel White,2025/26,100005,Primary Care
+2025-02-27 09:45:12,Feb,2025,West Hub,Lakeside Health Centre,ORION,Commercial,True,12,0,0,1,Emma Brown,2024/25,100001,Cardiology
+2024-02-27 10:59:18,Feb,2024,West Hub,Meadow Lane Surgery,NOVA,Commercial,True,23,7,10,15,Michael Taylor,2023/24,100004,Primary Care
+2023-02-11 10:37:20,Feb,2023,East Hub,Park View Medical Practice,NOVA,Commercial,False,29,19,43,40,Sarah Jones,2022/23,100004,Respiratory
+2024-01-19 15:34:29,Jan,2024,South Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,21,1,1,2,Tom Evans,2023/24,100008,Neurology
+2024-02-28 09:41:32,Feb,2024,East Hub,Hilltop Health Centre,ASTRA,Commercial,True,17,14,30,26,Michael Taylor,2023/24,100000,Cardiology
+2025-12-15 16:47:31,Dec,2025,Central Hub,Greenfield Practice,ORION,Commercial,False,11,3,9,8,Michael Taylor,2025/26,100001,Mental Health
+2026-06-13 14:15:53,Jun,2026,East Hub,St Mary's Surgery,GALAXY,Commercial,True,21,19,30,42,Sophie Wilson,2026/27,100002,Diabetes
+2025-07-22 12:21:41,Jul,2025,South Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,False,27,26,41,68,James Patel,2025/26,100006,Diabetes
+2025-12-19 13:23:21,Dec,2025,Central Hub,Oakwood Surgery,ORION,Commercial,True,20,16,48,46,Michael Taylor,2025/26,100001,Diabetes
+2026-06-20 10:01:09,Jun,2026,East Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,26,25,57,33,Sarah Jones,2026/27,100008,Dermatology
+2023-09-09 14:47:52,Sep,2023,West Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,0,1,3,3,Sophie Wilson,2023/24,100008,Primary Care
+2026-07-27 16:32:25,Jul,2026,East Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,27,12,18,35,Sophie Wilson,2026/27,100006,Primary Care
+2024-08-06 10:15:18,Aug,2024,East Hub,Riverside Medical Centre,ORION,Commercial,True,10,5,7,9,Michael Taylor,2024/25,100001,Oncology
+2024-04-20 15:40:19,Apr,2024,South Hub,Willowbrook Practice,GALAXY,Commercial,True,28,4,11,7,Tom Evans,2024/25,100002,Dermatology
+2025-05-06 12:31:44,May,2025,West Hub,Riverside Medical Centre,FOCUS,Non-Commercial,True,30,23,44,31,Rachel White,2025/26,100009,Respiratory
+2026-11-20 11:22:51,Nov,2026,North Hub,St Mary's Surgery,ASTRA,Commercial,True,1,0,0,3,Sarah Jones,2026/27,100000,Primary Care
+2025-08-28 08:59:19,Aug,2025,Central Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,19,10,38,16,Michael Taylor,2025/26,100009,Neurology
+2025-06-18 11:35:35,Jun,2025,Central Hub,Hilltop Health Centre,NOVA,Commercial,True,16,14,37,23,David Smith,2025/26,100004,Diabetes
+2023-03-11 09:42:06,Mar,2023,West Hub,Oakwood Surgery,INSIGHT,Non-Commercial,False,12,4,12,11,Tom Evans,2022/23,100005,Cardiology
+2026-10-08 17:06:36,Oct,2026,North Hub,Willowbrook Practice,DISCOVER,Non-Commercial,False,7,6,9,18,Emma Brown,2026/27,100006,Respiratory
+2023-02-23 14:49:39,Feb,2023,North Hub,Meadow Lane Surgery,ASTRA,Commercial,False,8,7,23,18,Sarah Jones,2022/23,100000,Oncology
+2024-12-03 12:13:59,Dec,2024,South Hub,Riverside Medical Centre,IMPACT,Non-Commercial,False,29,21,40,38,Rachel White,2024/25,100007,Mental Health
+2024-11-27 16:59:08,Nov,2024,North Hub,St Mary's Surgery,GALAXY,Commercial,False,17,1,2,1,Emma Brown,2024/25,100002,Cardiology
+2026-03-19 17:40:23,Mar,2026,East Hub,Greenfield Practice,GALAXY,Commercial,True,0,1,3,3,James Patel,2025/26,100002,Mental Health
+2026-10-13 14:41:19,Oct,2026,East Hub,Greenfield Practice,NOVA,Commercial,False,21,9,27,9,Rachel White,2026/27,100004,Primary Care
+2026-08-15 11:25:41,Aug,2026,East Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,26,15,19,27,Sophie Wilson,2026/27,100009,Primary Care
+2026-04-08 11:17:14,Apr,2026,North Hub,Lakeside Health Centre,PULSE,Commercial,False,26,9,22,15,Sophie Wilson,2026/27,100003,Oncology
+2025-10-18 12:11:30,Oct,2025,West Hub,Lakeside Health Centre,GALAXY,Commercial,True,2,0,0,4,David Smith,2025/26,100002,Diabetes
+2024-07-26 08:45:26,Jul,2024,North Hub,Lakeside Health Centre,NOVA,Commercial,True,1,0,0,1,Sophie Wilson,2024/25,100004,Mental Health
+2025-02-19 14:15:28,Feb,2025,West Hub,Lakeside Health Centre,GALAXY,Commercial,False,6,3,9,5,Emma Brown,2024/25,100002,Respiratory
+2024-12-13 17:46:37,Dec,2024,Central Hub,Greenfield Practice,HORIZON,Non-Commercial,True,21,1,2,2,Sophie Wilson,2024/25,100008,Dermatology
+2024-08-19 08:48:00,Aug,2024,East Hub,Lakeside Health Centre,IMPACT,Non-Commercial,True,12,11,14,29,Michael Taylor,2024/25,100007,Dermatology
+2024-03-13 10:33:18,Mar,2024,East Hub,Riverside Medical Centre,ORION,Commercial,False,21,18,56,40,Sophie Wilson,2023/24,100001,Respiratory
+2026-04-22 12:00:06,Apr,2026,West Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,19,8,17,23,Sarah Jones,2026/27,100007,Cardiology
+2026-06-25 08:41:06,Jun,2026,East Hub,Greenfield Practice,FOCUS,Non-Commercial,False,21,6,19,13,Michael Taylor,2026/27,100009,Mental Health
+2026-10-19 10:31:58,Oct,2026,Central Hub,Park View Medical Practice,IMPACT,Non-Commercial,True,30,13,20,13,Sophie Wilson,2026/27,100007,Cardiology
+2026-12-11 15:23:41,Dec,2026,Central Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,7,6,13,7,Sarah Jones,2026/27,100009,Respiratory
+2026-07-20 14:56:02,Jul,2026,West Hub,Willowbrook Practice,ASTRA,Commercial,False,14,12,15,24,Michael Taylor,2026/27,100000,Neurology
+2024-04-12 12:03:08,Apr,2024,Central Hub,Oakwood Surgery,ASTRA,Commercial,False,15,2,5,6,Michael Taylor,2024/25,100000,Neurology
+2026-11-07 17:02:28,Nov,2026,West Hub,Park View Medical Practice,INSIGHT,Non-Commercial,False,2,1,4,1,Tom Evans,2026/27,100005,Respiratory
+2026-05-14 12:30:18,May,2026,Central Hub,Lakeside Health Centre,GALAXY,Commercial,False,0,0,0,0,Sophie Wilson,2026/27,100002,Mental Health
+2024-12-09 11:22:10,Dec,2024,Central Hub,Meadow Lane Surgery,ORION,Commercial,False,9,9,31,21,Sophie Wilson,2024/25,100001,Oncology
+2025-01-19 17:34:49,Jan,2025,North Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,26,26,56,41,David Smith,2024/25,100007,Neurology
+2023-07-15 17:23:47,Jul,2023,Central Hub,Park View Medical Practice,ASTRA,Commercial,False,30,28,50,68,Rachel White,2023/24,100000,Diabetes
+2025-02-13 13:34:34,Feb,2025,West Hub,St Mary's Surgery,HORIZON,Non-Commercial,True,18,11,37,21,Michael Taylor,2024/25,100008,Oncology
+2023-04-10 08:06:48,Apr,2023,West Hub,Park View Medical Practice,IMPACT,Non-Commercial,True,5,2,8,3,David Smith,2023/24,100007,Respiratory
+2025-01-23 10:57:56,Jan,2025,Central Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,23,0,0,3,Emma Brown,2024/25,100009,Dermatology
+2023-02-02 10:05:39,Feb,2023,Central Hub,Greenfield Practice,DISCOVER,Non-Commercial,False,22,16,42,26,James Patel,2022/23,100006,Dermatology
+2024-12-21 11:08:30,Dec,2024,South Hub,The Orchard Surgery,IMPACT,Non-Commercial,False,2,0,0,0,Rachel White,2024/25,100007,Dermatology
+2026-01-11 10:53:32,Jan,2026,West Hub,Oakwood Surgery,FOCUS,Non-Commercial,True,21,10,13,14,Tom Evans,2025/26,100009,Diabetes
+2025-08-05 15:57:37,Aug,2025,North Hub,Lakeside Health Centre,ORION,Commercial,True,10,6,12,12,David Smith,2025/26,100001,Mental Health
+2025-09-17 13:34:51,Sep,2025,East Hub,Lakeside Health Centre,FOCUS,Non-Commercial,True,21,13,34,20,Emma Brown,2025/26,100009,Respiratory
+2025-04-17 08:28:22,Apr,2025,East Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,9,4,7,5,Sophie Wilson,2025/26,100006,Cardiology
+2024-03-17 11:33:02,Mar,2024,South Hub,St Mary's Surgery,ORION,Commercial,False,25,20,29,44,Sophie Wilson,2023/24,100001,Oncology
+2025-02-19 13:10:54,Feb,2025,Central Hub,Riverside Medical Centre,ASTRA,Commercial,False,6,4,10,8,Michael Taylor,2024/25,100000,Oncology
+2025-09-01 13:21:53,Sep,2025,West Hub,Greenfield Practice,DISCOVER,Non-Commercial,True,27,18,23,18,Emma Brown,2025/26,100006,Respiratory
+2025-11-08 08:22:53,Nov,2025,Central Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,29,7,21,18,James Patel,2025/26,100009,Respiratory
+2023-04-07 13:21:44,Apr,2023,South Hub,The Orchard Surgery,NOVA,Commercial,False,12,9,19,25,David Smith,2023/24,100004,Diabetes
+2023-03-18 12:38:52,Mar,2023,Central Hub,Hilltop Health Centre,ASTRA,Commercial,False,22,18,55,27,Tom Evans,2022/23,100000,Cardiology
+2026-11-11 08:38:15,Nov,2026,South Hub,The Orchard Surgery,FOCUS,Non-Commercial,False,16,15,38,44,James Patel,2026/27,100009,Dermatology
+2026-04-21 17:06:38,Apr,2026,West Hub,Hilltop Health Centre,ORION,Commercial,False,25,17,44,27,Emma Brown,2026/27,100001,Respiratory
+2025-04-06 14:19:19,Apr,2025,East Hub,Greenfield Practice,PULSE,Commercial,True,2,0,0,3,Michael Taylor,2025/26,100003,Mental Health
+2023-08-19 11:16:31,Aug,2023,Central Hub,Riverside Medical Centre,NOVA,Commercial,True,1,0,0,2,Tom Evans,2023/24,100004,Cardiology
+2025-05-24 08:40:52,May,2025,Central Hub,Hilltop Health Centre,HORIZON,Non-Commercial,True,14,2,3,2,Sophie Wilson,2025/26,100008,Primary Care
+2024-02-02 09:13:54,Feb,2024,Central Hub,St Mary's Surgery,IMPACT,Non-Commercial,True,29,11,32,32,Michael Taylor,2023/24,100007,Primary Care
+2026-06-18 14:38:31,Jun,2026,Central Hub,Greenfield Practice,ASTRA,Commercial,True,15,8,10,15,Emma Brown,2026/27,100000,Dermatology
+2025-11-25 15:40:09,Nov,2025,North Hub,Greenfield Practice,IMPACT,Non-Commercial,False,0,0,0,5,Emma Brown,2025/26,100007,Cardiology
+2024-09-02 17:35:50,Sep,2024,Central Hub,Willowbrook Practice,ASTRA,Commercial,True,20,1,4,2,Emma Brown,2024/25,100000,Mental Health
+2026-02-07 11:04:58,Feb,2026,Central Hub,St Mary's Surgery,INSIGHT,Non-Commercial,False,3,3,3,3,Tom Evans,2025/26,100005,Mental Health
+2023-11-27 13:45:20,Nov,2023,South Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,6,0,0,5,Rachel White,2023/24,100009,Dermatology
+2025-04-12 10:45:43,Apr,2025,East Hub,Oakwood Surgery,INSIGHT,Non-Commercial,False,8,3,9,7,Emma Brown,2025/26,100005,Mental Health
+2024-02-22 10:20:01,Feb,2024,Central Hub,Meadow Lane Surgery,PULSE,Commercial,False,15,0,0,3,Emma Brown,2023/24,100003,Mental Health
+2025-04-25 11:06:17,Apr,2025,East Hub,Riverside Medical Centre,NOVA,Commercial,False,5,4,9,9,Sophie Wilson,2025/26,100004,Mental Health
+2025-05-07 17:04:08,May,2025,West Hub,Hilltop Health Centre,ASTRA,Commercial,True,13,2,5,5,Sophie Wilson,2025/26,100000,Cardiology
+2026-12-04 10:00:00,Dec,2026,East Hub,Hilltop Health Centre,PULSE,Commercial,True,5,0,0,5,Sophie Wilson,2026/27,100003,Mental Health
+2026-01-26 10:59:30,Jan,2026,South Hub,Lakeside Health Centre,PULSE,Commercial,True,20,12,21,21,David Smith,2025/26,100003,Diabetes
+2026-06-20 09:32:58,Jun,2026,South Hub,Lakeside Health Centre,ASTRA,Commercial,True,21,12,29,25,Sophie Wilson,2026/27,100000,Dermatology
+2024-05-26 10:45:36,May,2024,East Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,22,14,28,34,Michael Taylor,2024/25,100008,Diabetes
+2023-02-09 15:50:01,Feb,2023,Central Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,9,4,7,4,David Smith,2022/23,100006,Dermatology
+2023-05-21 17:19:41,May,2023,West Hub,Meadow Lane Surgery,ASTRA,Commercial,False,27,19,74,41,Rachel White,2023/24,100000,Primary Care
+2024-03-28 10:03:57,Mar,2024,North Hub,St Mary's Surgery,GALAXY,Commercial,False,18,5,8,15,Sophie Wilson,2023/24,100002,Neurology
+2024-01-15 12:25:13,Jan,2024,West Hub,Meadow Lane Surgery,GALAXY,Commercial,False,1,0,0,4,Sophie Wilson,2023/24,100002,Cardiology
+2024-09-20 08:09:35,Sep,2024,South Hub,Lakeside Health Centre,IMPACT,Non-Commercial,True,25,16,25,42,James Patel,2024/25,100007,Cardiology
+2026-02-22 10:10:30,Feb,2026,West Hub,Riverside Medical Centre,IMPACT,Non-Commercial,True,17,6,6,18,Rachel White,2025/26,100007,Diabetes
+2023-03-03 15:57:52,Mar,2023,East Hub,Lakeside Health Centre,NOVA,Commercial,False,4,4,16,10,James Patel,2022/23,100004,Mental Health
+2026-12-04 10:17:57,Dec,2026,West Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,6,6,20,9,Tom Evans,2026/27,100007,Neurology
+2023-07-18 14:29:04,Jul,2023,South Hub,Oakwood Surgery,HORIZON,Non-Commercial,True,29,1,4,2,Rachel White,2023/24,100008,Cardiology
+2024-10-15 14:56:17,Oct,2024,East Hub,Riverside Medical Centre,ORION,Commercial,False,2,2,8,3,Tom Evans,2024/25,100001,Primary Care
+2024-02-10 09:20:47,Feb,2024,North Hub,Greenfield Practice,GALAXY,Commercial,True,12,7,8,10,Sarah Jones,2023/24,100002,Mental Health
+2026-05-10 14:35:03,May,2026,Central Hub,The Orchard Surgery,ORION,Commercial,True,2,0,0,5,Rachel White,2026/27,100001,Primary Care
+2023-05-09 08:50:59,May,2023,West Hub,Park View Medical Practice,PULSE,Commercial,True,15,3,10,6,David Smith,2023/24,100003,Neurology
+2023-06-15 17:46:58,Jun,2023,Central Hub,Hilltop Health Centre,ASTRA,Commercial,True,25,20,31,58,Tom Evans,2023/24,100000,Dermatology
+2026-03-04 08:30:06,Mar,2026,West Hub,Oakwood Surgery,INSIGHT,Non-Commercial,False,16,0,0,4,David Smith,2025/26,100005,Respiratory
+2025-01-05 09:55:56,Jan,2025,South Hub,Meadow Lane Surgery,GALAXY,Commercial,False,20,4,4,12,Michael Taylor,2024/25,100002,Mental Health
+2026-05-27 15:00:28,May,2026,West Hub,The Orchard Surgery,HORIZON,Non-Commercial,False,26,10,14,26,Sarah Jones,2026/27,100008,Diabetes
+2024-07-07 08:59:16,Jul,2024,North Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,29,24,57,50,Emma Brown,2024/25,100007,Dermatology
+2026-12-02 15:06:51,Dec,2026,West Hub,St Mary's Surgery,ASTRA,Commercial,True,8,3,4,4,Emma Brown,2026/27,100000,Neurology
+2024-12-07 08:09:24,Dec,2024,West Hub,The Orchard Surgery,ASTRA,Commercial,False,0,0,0,4,James Patel,2024/25,100000,Mental Health
+2025-06-02 14:52:38,Jun,2025,West Hub,Lakeside Health Centre,ASTRA,Commercial,False,9,0,0,1,Sophie Wilson,2025/26,100000,Dermatology
+2025-04-02 10:46:45,Apr,2025,Central Hub,Riverside Medical Centre,ASTRA,Commercial,False,23,19,43,20,Tom Evans,2025/26,100000,Mental Health
+2026-06-10 12:55:50,Jun,2026,North Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,23,1,2,1,Rachel White,2026/27,100009,Primary Care
+2024-08-28 15:55:29,Aug,2024,West Hub,The Orchard Surgery,DISCOVER,Non-Commercial,True,5,4,16,9,Rachel White,2024/25,100006,Respiratory
+2024-11-03 16:10:53,Nov,2024,North Hub,Hilltop Health Centre,ASTRA,Commercial,True,17,16,44,40,David Smith,2024/25,100000,Mental Health
+2025-02-10 11:32:40,Feb,2025,Central Hub,The Orchard Surgery,ORION,Commercial,True,2,1,2,1,James Patel,2024/25,100001,Primary Care
+2024-04-10 10:28:14,Apr,2024,East Hub,Meadow Lane Surgery,GALAXY,Commercial,True,17,7,19,20,Sarah Jones,2024/25,100002,Diabetes
+2023-05-24 10:33:13,May,2023,West Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,True,2,2,2,2,David Smith,2023/24,100005,Diabetes
+2026-06-12 11:11:24,Jun,2026,South Hub,Hilltop Health Centre,IMPACT,Non-Commercial,False,22,2,3,4,Rachel White,2026/27,100007,Primary Care
+2023-08-12 16:09:16,Aug,2023,North Hub,The Orchard Surgery,ASTRA,Commercial,True,6,1,2,2,David Smith,2023/24,100000,Cardiology
+2024-04-07 14:47:43,Apr,2024,South Hub,Lakeside Health Centre,PULSE,Commercial,True,14,2,8,6,Rachel White,2024/25,100003,Respiratory
+2024-09-24 11:51:09,Sep,2024,South Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,True,30,11,12,14,Tom Evans,2024/25,100009,Diabetes
+2023-03-14 11:28:52,Mar,2023,North Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,20,9,12,20,James Patel,2022/23,100007,Cardiology
+2023-04-11 12:26:00,Apr,2023,North Hub,Willowbrook Practice,GALAXY,Commercial,False,18,7,25,18,Emma Brown,2023/24,100002,Mental Health
+2025-08-03 13:11:44,Aug,2025,Central Hub,The Orchard Surgery,IMPACT,Non-Commercial,False,6,4,14,9,Sophie Wilson,2025/26,100007,Dermatology
+2024-12-28 14:21:07,Dec,2024,North Hub,Lakeside Health Centre,GALAXY,Commercial,True,0,1,1,3,Michael Taylor,2024/25,100002,Respiratory
+2025-01-24 13:56:47,Jan,2025,South Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,21,12,37,21,Michael Taylor,2024/25,100007,Mental Health
+2023-10-08 11:38:37,Oct,2023,North Hub,Riverside Medical Centre,NOVA,Commercial,True,12,12,43,21,Emma Brown,2023/24,100004,Diabetes
+2025-08-01 13:38:49,Aug,2025,Central Hub,St Mary's Surgery,HORIZON,Non-Commercial,True,28,4,15,9,Tom Evans,2025/26,100008,Primary Care
+2026-04-19 16:39:51,Apr,2026,East Hub,St Mary's Surgery,DISCOVER,Non-Commercial,True,14,4,12,12,Emma Brown,2026/27,100006,Dermatology
+2025-06-28 16:05:40,Jun,2025,East Hub,Lakeside Health Centre,ORION,Commercial,True,20,10,32,21,Michael Taylor,2025/26,100001,Mental Health
+2024-02-26 15:05:30,Feb,2024,North Hub,Lakeside Health Centre,ASTRA,Commercial,False,18,16,25,38,Rachel White,2023/24,100000,Cardiology
+2024-12-22 11:51:28,Dec,2024,East Hub,Oakwood Surgery,NOVA,Commercial,False,5,4,5,7,Tom Evans,2024/25,100004,Neurology
+2023-07-14 17:23:17,Jul,2023,Central Hub,Hilltop Health Centre,GALAXY,Commercial,True,30,10,26,16,Michael Taylor,2023/24,100002,Dermatology
+2026-05-19 12:52:59,May,2026,West Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,False,19,13,17,31,Sarah Jones,2026/27,100005,Dermatology
+2024-04-12 14:25:42,Apr,2024,Central Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,True,24,5,6,12,Michael Taylor,2024/25,100005,Primary Care
+2025-10-02 16:49:46,Oct,2025,South Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,False,21,9,20,14,James Patel,2025/26,100006,Oncology
+2025-01-15 17:24:05,Jan,2025,East Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,21,16,59,37,Tom Evans,2024/25,100009,Neurology
+2024-07-18 16:09:11,Jul,2024,East Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,19,3,7,7,Tom Evans,2024/25,100005,Dermatology
+2025-11-21 12:06:57,Nov,2025,West Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,False,9,4,10,10,Tom Evans,2025/26,100005,Oncology
+2026-05-14 13:03:10,May,2026,Central Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,6,6,18,13,Rachel White,2026/27,100005,Primary Care
+2025-05-27 10:43:19,May,2025,South Hub,Lakeside Health Centre,ASTRA,Commercial,True,24,19,74,35,Sarah Jones,2025/26,100000,Oncology
+2026-09-03 17:12:15,Sep,2026,Central Hub,The Orchard Surgery,ASTRA,Commercial,True,18,10,27,20,Tom Evans,2026/27,100000,Cardiology
+2025-11-20 09:17:29,Nov,2025,South Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,2,2,5,4,Michael Taylor,2025/26,100007,Oncology
+2026-06-18 17:49:37,Jun,2026,North Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,2,2,7,3,Sophie Wilson,2026/27,100009,Oncology
+2026-08-23 16:51:16,Aug,2026,Central Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,18,12,29,25,Tom Evans,2026/27,100008,Cardiology
+2025-08-27 13:28:55,Aug,2025,North Hub,Greenfield Practice,NOVA,Commercial,False,26,11,20,31,James Patel,2025/26,100004,Mental Health
+2026-10-02 08:31:02,Oct,2026,North Hub,Greenfield Practice,NOVA,Commercial,False,4,2,2,6,Michael Taylor,2026/27,100004,Oncology
+2026-05-27 17:12:56,May,2026,North Hub,Willowbrook Practice,GALAXY,Commercial,False,18,16,17,41,Sophie Wilson,2026/27,100002,Mental Health
+2026-05-26 13:28:37,May,2026,Central Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,1,0,0,2,James Patel,2026/27,100007,Respiratory
+2023-10-23 11:48:38,Oct,2023,West Hub,Greenfield Practice,FOCUS,Non-Commercial,True,15,11,39,23,Emma Brown,2023/24,100009,Primary Care
+2024-12-07 13:09:38,Dec,2024,South Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,1,0,0,5,Sophie Wilson,2024/25,100006,Dermatology
+2026-12-26 16:39:30,Dec,2026,Central Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,False,3,2,2,4,Sophie Wilson,2026/27,100005,Mental Health
+2024-03-14 12:28:19,Mar,2024,East Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,5,0,0,1,Sophie Wilson,2023/24,100007,Cardiology
+2023-06-07 09:59:24,Jun,2023,North Hub,Lakeside Health Centre,GALAXY,Commercial,True,17,1,2,2,Emma Brown,2023/24,100002,Oncology
+2025-10-07 16:12:08,Oct,2025,West Hub,The Orchard Surgery,GALAXY,Commercial,True,10,5,17,12,Tom Evans,2025/26,100002,Mental Health
+2026-02-05 08:01:48,Feb,2026,Central Hub,Park View Medical Practice,GALAXY,Commercial,True,16,15,44,23,Emma Brown,2025/26,100002,Neurology
+2024-10-01 10:17:22,Oct,2024,Central Hub,Greenfield Practice,HORIZON,Non-Commercial,True,30,26,27,50,David Smith,2024/25,100008,Diabetes
+2025-01-24 11:58:12,Jan,2025,South Hub,Riverside Medical Centre,IMPACT,Non-Commercial,False,27,12,44,13,Rachel White,2024/25,100007,Mental Health
+2025-08-20 14:00:21,Aug,2025,East Hub,Meadow Lane Surgery,ASTRA,Commercial,False,22,16,20,36,Sarah Jones,2025/26,100000,Dermatology
+2025-12-16 16:57:46,Dec,2025,South Hub,Oakwood Surgery,ASTRA,Commercial,True,8,0,0,1,Rachel White,2025/26,100000,Primary Care
+2025-02-02 13:09:49,Feb,2025,East Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,1,0,0,3,Michael Taylor,2024/25,100009,Primary Care
+2026-03-09 12:27:07,Mar,2026,North Hub,St Mary's Surgery,ORION,Commercial,True,20,19,61,51,Rachel White,2025/26,100001,Oncology
+2026-06-20 14:52:36,Jun,2026,West Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,13,6,22,18,David Smith,2026/27,100009,Cardiology
+2026-11-02 12:55:01,Nov,2026,North Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,True,12,3,8,8,Emma Brown,2026/27,100006,Respiratory
+2024-02-07 16:41:07,Feb,2024,South Hub,Greenfield Practice,HORIZON,Non-Commercial,False,29,16,19,41,Tom Evans,2023/24,100008,Dermatology
+2023-09-07 10:49:52,Sep,2023,South Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,0,1,3,3,Emma Brown,2023/24,100006,Oncology
+2026-05-05 10:28:32,May,2026,West Hub,Riverside Medical Centre,HORIZON,Non-Commercial,True,4,3,8,8,Sarah Jones,2026/27,100008,Neurology
+2025-01-15 11:55:18,Jan,2025,North Hub,Greenfield Practice,ORION,Commercial,False,9,5,17,6,Emma Brown,2024/25,100001,Mental Health
+2024-10-23 08:24:00,Oct,2024,East Hub,Oakwood Surgery,PULSE,Commercial,True,2,1,3,2,David Smith,2024/25,100003,Respiratory
+2025-10-05 11:30:34,Oct,2025,South Hub,Meadow Lane Surgery,GALAXY,Commercial,True,19,12,37,19,Sophie Wilson,2025/26,100002,Cardiology
+2023-05-06 17:08:38,May,2023,South Hub,Willowbrook Practice,PULSE,Commercial,True,29,9,22,24,David Smith,2023/24,100003,Mental Health
+2025-02-05 14:18:38,Feb,2025,North Hub,St Mary's Surgery,INSIGHT,Non-Commercial,True,22,17,42,27,James Patel,2024/25,100005,Dermatology
+2025-12-11 09:53:21,Dec,2025,South Hub,Riverside Medical Centre,ASTRA,Commercial,True,24,19,52,51,Sarah Jones,2025/26,100000,Cardiology
+2025-03-13 15:45:27,Mar,2025,Central Hub,Hilltop Health Centre,IMPACT,Non-Commercial,True,29,4,12,12,Michael Taylor,2024/25,100007,Cardiology
+2024-07-14 17:05:52,Jul,2024,Central Hub,Willowbrook Practice,ASTRA,Commercial,False,30,29,97,39,Emma Brown,2024/25,100000,Neurology
+2023-08-09 15:37:37,Aug,2023,North Hub,Riverside Medical Centre,HORIZON,Non-Commercial,False,5,2,3,4,Michael Taylor,2023/24,100008,Cardiology
+2023-02-23 12:10:15,Feb,2023,East Hub,St Mary's Surgery,INSIGHT,Non-Commercial,True,11,0,0,2,Rachel White,2022/23,100005,Cardiology
+2025-10-02 14:44:06,Oct,2025,West Hub,Park View Medical Practice,INSIGHT,Non-Commercial,False,4,1,2,3,James Patel,2025/26,100005,Respiratory
+2024-04-25 14:02:38,Apr,2024,West Hub,St Mary's Surgery,DISCOVER,Non-Commercial,False,23,5,19,5,James Patel,2024/25,100006,Mental Health
+2023-10-21 14:20:40,Oct,2023,West Hub,Meadow Lane Surgery,GALAXY,Commercial,True,5,0,0,0,James Patel,2023/24,100002,Primary Care
+2024-08-12 08:30:55,Aug,2024,North Hub,Hilltop Health Centre,GALAXY,Commercial,True,12,0,0,0,James Patel,2024/25,100002,Neurology
+2024-02-03 13:27:01,Feb,2024,North Hub,Greenfield Practice,ASTRA,Commercial,False,19,8,16,22,Rachel White,2023/24,100000,Oncology
+2024-05-09 08:14:31,May,2024,West Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,30,16,32,31,Sarah Jones,2024/25,100005,Oncology
+2025-03-15 13:03:46,Mar,2025,Central Hub,Oakwood Surgery,PULSE,Commercial,True,30,22,86,56,Sarah Jones,2024/25,100003,Respiratory
+2026-01-25 16:33:10,Jan,2026,North Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,7,3,12,8,Emma Brown,2025/26,100009,Oncology
+2025-11-10 13:05:36,Nov,2025,North Hub,Riverside Medical Centre,FOCUS,Non-Commercial,True,0,0,0,2,Sarah Jones,2025/26,100009,Primary Care
+2024-12-11 11:01:43,Dec,2024,South Hub,Willowbrook Practice,ASTRA,Commercial,True,10,0,0,4,James Patel,2024/25,100000,Diabetes
+2023-03-10 12:47:38,Mar,2023,West Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,17,6,21,15,Emma Brown,2022/23,100008,Mental Health
+2023-10-08 14:21:37,Oct,2023,North Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,25,19,35,40,Rachel White,2023/24,100006,Cardiology
+2025-01-28 15:04:03,Jan,2025,West Hub,Riverside Medical Centre,IMPACT,Non-Commercial,True,20,8,30,24,Michael Taylor,2024/25,100007,Diabetes
+2024-01-09 09:50:46,Jan,2024,Central Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,True,21,13,46,15,Sophie Wilson,2023/24,100005,Respiratory
+2024-10-11 11:13:55,Oct,2024,South Hub,St Mary's Surgery,INSIGHT,Non-Commercial,True,6,2,8,6,Tom Evans,2024/25,100005,Oncology
+2024-05-28 14:29:30,May,2024,East Hub,The Orchard Surgery,ASTRA,Commercial,True,25,7,9,14,David Smith,2024/25,100000,Diabetes
+2026-11-18 14:54:30,Nov,2026,Central Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,2,2,7,6,Tom Evans,2026/27,100005,Primary Care
+2026-11-10 08:37:23,Nov,2026,East Hub,Lakeside Health Centre,PULSE,Commercial,True,2,1,2,1,Michael Taylor,2026/27,100003,Respiratory
+2024-10-19 12:45:05,Oct,2024,Central Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,False,26,20,55,41,Emma Brown,2024/25,100008,Dermatology
+2023-04-03 12:55:50,Apr,2023,South Hub,Lakeside Health Centre,IMPACT,Non-Commercial,False,25,19,52,44,Rachel White,2023/24,100007,Primary Care
+2023-03-14 17:28:12,Mar,2023,South Hub,Park View Medical Practice,ORION,Commercial,False,27,6,6,11,Michael Taylor,2022/23,100001,Cardiology
+2026-08-22 16:54:40,Aug,2026,West Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,22,3,10,4,James Patel,2026/27,100007,Dermatology
+2025-01-02 11:28:36,Jan,2025,South Hub,Lakeside Health Centre,FOCUS,Non-Commercial,False,13,6,18,13,Rachel White,2024/25,100009,Diabetes
+2026-04-12 13:01:34,Apr,2026,North Hub,Park View Medical Practice,DISCOVER,Non-Commercial,True,13,2,2,3,Sophie Wilson,2026/27,100006,Dermatology
+2023-12-02 13:08:33,Dec,2023,South Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,11,11,25,16,Emma Brown,2023/24,100006,Respiratory
+2025-04-17 12:56:56,Apr,2025,North Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,20,20,30,31,Sophie Wilson,2025/26,100005,Diabetes
+2025-08-04 15:20:58,Aug,2025,West Hub,Riverside Medical Centre,IMPACT,Non-Commercial,True,30,2,7,5,Rachel White,2025/26,100007,Cardiology
+2026-10-21 08:00:05,Oct,2026,East Hub,Willowbrook Practice,PULSE,Commercial,True,25,24,41,59,David Smith,2026/27,100003,Neurology
+2023-04-15 10:36:31,Apr,2023,West Hub,Riverside Medical Centre,GALAXY,Commercial,False,23,18,33,18,Rachel White,2023/24,100002,Mental Health
+2024-01-10 13:40:22,Jan,2024,West Hub,Oakwood Surgery,DISCOVER,Non-Commercial,False,27,15,23,24,James Patel,2023/24,100006,Cardiology
+2024-10-25 13:04:13,Oct,2024,North Hub,Greenfield Practice,FOCUS,Non-Commercial,False,27,11,24,15,Emma Brown,2024/25,100009,Cardiology
+2024-12-19 09:37:21,Dec,2024,North Hub,Lakeside Health Centre,GALAXY,Commercial,True,2,0,0,1,James Patel,2024/25,100002,Oncology
+2026-05-20 16:09:45,May,2026,East Hub,Park View Medical Practice,DISCOVER,Non-Commercial,False,28,8,25,9,Rachel White,2026/27,100006,Cardiology
+2025-01-17 12:48:20,Jan,2025,East Hub,Greenfield Practice,HORIZON,Non-Commercial,False,12,9,27,20,Sarah Jones,2024/25,100008,Diabetes
+2026-06-07 14:15:27,Jun,2026,West Hub,Hilltop Health Centre,IMPACT,Non-Commercial,False,29,26,48,66,David Smith,2026/27,100007,Mental Health
+2024-07-09 10:48:31,Jul,2024,North Hub,St Mary's Surgery,NOVA,Commercial,False,19,11,34,11,James Patel,2024/25,100004,Dermatology
+2026-11-19 12:50:10,Nov,2026,West Hub,Greenfield Practice,NOVA,Commercial,False,12,7,28,8,Sarah Jones,2026/27,100004,Dermatology
+2024-04-21 11:23:06,Apr,2024,East Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,True,4,3,11,3,Tom Evans,2024/25,100009,Cardiology
+2024-10-27 17:27:44,Oct,2024,East Hub,Lakeside Health Centre,GALAXY,Commercial,False,20,13,48,18,Emma Brown,2024/25,100002,Neurology
+2023-04-22 12:09:53,Apr,2023,Central Hub,Willowbrook Practice,FOCUS,Non-Commercial,False,27,17,47,19,Michael Taylor,2023/24,100009,Diabetes
+2026-12-19 12:20:52,Dec,2026,North Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,True,21,11,39,11,Tom Evans,2026/27,100009,Respiratory
+2025-08-03 17:26:21,Aug,2025,North Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,5,4,9,8,Sarah Jones,2025/26,100006,Diabetes
+2026-07-18 09:13:32,Jul,2026,West Hub,Greenfield Practice,GALAXY,Commercial,False,26,4,13,5,Michael Taylor,2026/27,100002,Mental Health
+2023-10-25 15:52:29,Oct,2023,Central Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,True,3,1,3,1,James Patel,2023/24,100005,Primary Care
+2025-01-26 15:42:30,Jan,2025,East Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,1,1,2,1,Michael Taylor,2024/25,100008,Cardiology
+2024-04-25 09:37:24,Apr,2024,Central Hub,Oakwood Surgery,PULSE,Commercial,False,1,0,0,5,Rachel White,2024/25,100003,Respiratory
+2024-06-06 08:21:44,Jun,2024,West Hub,Hilltop Health Centre,ORION,Commercial,False,22,3,12,5,Michael Taylor,2024/25,100001,Neurology
+2025-12-17 17:08:40,Dec,2025,West Hub,Riverside Medical Centre,GALAXY,Commercial,False,18,0,0,4,Sophie Wilson,2025/26,100002,Dermatology
+2025-05-14 14:05:40,May,2025,North Hub,St Mary's Surgery,NOVA,Commercial,False,20,0,0,3,Rachel White,2025/26,100004,Primary Care
+2024-03-21 08:32:57,Mar,2024,Central Hub,Park View Medical Practice,PULSE,Commercial,True,14,14,51,35,Emma Brown,2023/24,100003,Respiratory
+2025-05-22 12:23:02,May,2025,South Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,21,8,23,8,James Patel,2025/26,100007,Cardiology
+2023-08-24 10:12:25,Aug,2023,West Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,False,3,1,2,2,Emma Brown,2023/24,100005,Oncology
+2023-11-13 10:31:38,Nov,2023,West Hub,Lakeside Health Centre,GALAXY,Commercial,False,7,4,5,8,Emma Brown,2023/24,100002,Mental Health
+2026-09-08 09:48:26,Sep,2026,West Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,14,9,27,24,Tom Evans,2026/27,100008,Primary Care
+2024-04-14 11:46:32,Apr,2024,South Hub,The Orchard Surgery,ASTRA,Commercial,True,17,10,17,26,Sophie Wilson,2024/25,100000,Dermatology
+2026-04-03 09:51:14,Apr,2026,South Hub,Willowbrook Practice,ORION,Commercial,False,6,3,5,5,Rachel White,2026/27,100001,Primary Care
+2023-11-25 09:12:10,Nov,2023,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,16,16,62,28,Emma Brown,2023/24,100005,Mental Health
+2025-04-16 17:53:58,Apr,2025,North Hub,Riverside Medical Centre,PULSE,Commercial,False,13,1,3,2,David Smith,2025/26,100003,Neurology
+2023-09-08 17:00:27,Sep,2023,Central Hub,Meadow Lane Surgery,PULSE,Commercial,True,1,0,0,4,Rachel White,2023/24,100003,Cardiology
+2025-03-14 15:58:41,Mar,2025,South Hub,Oakwood Surgery,FOCUS,Non-Commercial,True,14,9,22,27,Sarah Jones,2024/25,100009,Primary Care
+2026-09-05 10:43:11,Sep,2026,West Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,22,22,58,24,David Smith,2026/27,100007,Respiratory
+2026-04-12 15:53:06,Apr,2026,East Hub,Oakwood Surgery,ASTRA,Commercial,False,19,2,4,3,Tom Evans,2026/27,100000,Mental Health
+2026-01-09 14:42:32,Jan,2026,South Hub,Riverside Medical Centre,HORIZON,Non-Commercial,True,16,5,8,9,Sarah Jones,2025/26,100008,Primary Care
+2026-06-23 13:51:22,Jun,2026,South Hub,St Mary's Surgery,NOVA,Commercial,True,8,2,8,4,Sophie Wilson,2026/27,100004,Neurology
+2025-04-03 08:13:20,Apr,2025,North Hub,Hilltop Health Centre,HORIZON,Non-Commercial,False,8,7,16,10,David Smith,2025/26,100008,Mental Health
+2024-12-12 17:11:17,Dec,2024,East Hub,Hilltop Health Centre,GALAXY,Commercial,False,1,0,0,1,James Patel,2024/25,100002,Respiratory
+2026-09-18 13:43:49,Sep,2026,North Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,30,18,26,54,Michael Taylor,2026/27,100005,Diabetes
+2026-05-05 16:18:10,May,2026,South Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,2,2,6,5,Emma Brown,2026/27,100007,Cardiology
+2026-07-28 14:37:12,Jul,2026,North Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,25,7,13,17,Emma Brown,2026/27,100007,Primary Care
+2023-02-08 09:08:48,Feb,2023,West Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,18,15,47,20,Sarah Jones,2022/23,100009,Cardiology
+2025-05-19 17:23:05,May,2025,South Hub,Greenfield Practice,HORIZON,Non-Commercial,True,23,18,19,29,Michael Taylor,2025/26,100008,Primary Care
+2024-02-01 12:54:35,Feb,2024,East Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,27,22,31,65,James Patel,2023/24,100007,Dermatology
+2026-10-18 14:55:38,Oct,2026,South Hub,St Mary's Surgery,ASTRA,Commercial,True,2,2,5,6,Michael Taylor,2026/27,100000,Diabetes
+2024-03-08 17:08:07,Mar,2024,West Hub,St Mary's Surgery,ASTRA,Commercial,True,1,1,2,1,Rachel White,2023/24,100000,Oncology
+2025-12-19 08:10:12,Dec,2025,North Hub,St Mary's Surgery,IMPACT,Non-Commercial,False,3,1,3,3,Emma Brown,2025/26,100007,Respiratory
+2025-09-22 10:07:27,Sep,2025,East Hub,Riverside Medical Centre,ASTRA,Commercial,True,3,2,8,3,Rachel White,2025/26,100000,Mental Health
+2026-01-04 17:29:14,Jan,2026,South Hub,Meadow Lane Surgery,NOVA,Commercial,True,4,1,4,1,Michael Taylor,2025/26,100004,Respiratory
+2026-03-07 10:22:18,Mar,2026,South Hub,Park View Medical Practice,DISCOVER,Non-Commercial,True,30,28,48,80,Sarah Jones,2025/26,100006,Respiratory
+2025-01-19 08:44:04,Jan,2025,North Hub,Greenfield Practice,ASTRA,Commercial,False,25,13,26,23,James Patel,2024/25,100000,Cardiology
+2026-09-21 13:16:14,Sep,2026,Central Hub,Oakwood Surgery,GALAXY,Commercial,True,12,11,19,32,Tom Evans,2026/27,100002,Primary Care
+2025-03-07 08:41:14,Mar,2025,East Hub,Greenfield Practice,HORIZON,Non-Commercial,False,3,2,5,5,David Smith,2024/25,100008,Primary Care
+2025-07-23 08:58:54,Jul,2025,West Hub,Oakwood Surgery,DISCOVER,Non-Commercial,False,25,5,12,12,James Patel,2025/26,100006,Neurology
+2026-11-07 09:12:00,Nov,2026,West Hub,Lakeside Health Centre,GALAXY,Commercial,True,16,10,37,17,Michael Taylor,2026/27,100002,Mental Health
+2024-06-20 09:24:42,Jun,2024,North Hub,Willowbrook Practice,NOVA,Commercial,False,17,10,23,16,Tom Evans,2024/25,100004,Cardiology
+2026-04-06 13:22:43,Apr,2026,South Hub,Willowbrook Practice,ORION,Commercial,True,23,23,85,42,James Patel,2026/27,100001,Respiratory
+2023-04-06 13:01:31,Apr,2023,South Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,26,1,4,3,Michael Taylor,2023/24,100007,Cardiology
+2023-03-25 10:36:00,Mar,2023,South Hub,Park View Medical Practice,ASTRA,Commercial,True,19,13,49,18,Tom Evans,2022/23,100000,Oncology
+2026-11-22 08:22:43,Nov,2026,North Hub,Oakwood Surgery,FOCUS,Non-Commercial,True,10,10,21,12,Emma Brown,2026/27,100009,Oncology
+2024-11-20 13:21:55,Nov,2024,South Hub,Hilltop Health Centre,GALAXY,Commercial,False,13,6,19,10,David Smith,2024/25,100002,Cardiology
+2023-01-23 12:53:53,Jan,2023,South Hub,Willowbrook Practice,FOCUS,Non-Commercial,False,21,9,23,23,James Patel,2022/23,100009,Respiratory
+2025-06-21 16:14:30,Jun,2025,West Hub,Willowbrook Practice,PULSE,Commercial,False,28,12,26,19,Michael Taylor,2025/26,100003,Oncology
+2025-06-02 10:45:28,Jun,2025,South Hub,Willowbrook Practice,IMPACT,Non-Commercial,False,7,3,11,5,James Patel,2025/26,100007,Primary Care
+2023-06-15 08:08:21,Jun,2023,East Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,26,22,59,28,Rachel White,2023/24,100009,Primary Care
+2023-10-10 08:18:34,Oct,2023,Central Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,25,23,29,66,Tom Evans,2023/24,100005,Mental Health
+2026-10-23 09:26:09,Oct,2026,South Hub,Oakwood Surgery,NOVA,Commercial,True,18,8,21,16,Sophie Wilson,2026/27,100004,Mental Health
+2025-03-21 15:32:37,Mar,2025,West Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,4,3,3,6,Emma Brown,2024/25,100008,Dermatology
+2023-02-09 16:26:02,Feb,2023,Central Hub,Greenfield Practice,PULSE,Commercial,True,21,11,42,29,Sarah Jones,2022/23,100003,Neurology
+2025-11-26 14:06:06,Nov,2025,East Hub,Lakeside Health Centre,GALAXY,Commercial,True,26,3,7,7,Sophie Wilson,2025/26,100002,Mental Health
+2023-06-07 08:35:45,Jun,2023,North Hub,Meadow Lane Surgery,NOVA,Commercial,False,27,1,2,3,Michael Taylor,2023/24,100004,Primary Care
+2025-04-08 13:51:43,Apr,2025,East Hub,Park View Medical Practice,ASTRA,Commercial,False,24,4,9,12,Sarah Jones,2025/26,100000,Neurology
+2026-06-08 12:21:41,Jun,2026,Central Hub,Willowbrook Practice,DISCOVER,Non-Commercial,True,30,24,39,68,David Smith,2026/27,100006,Neurology
+2024-12-25 15:28:44,Dec,2024,North Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,23,10,22,19,Michael Taylor,2024/25,100008,Oncology
+2024-11-24 09:03:09,Nov,2024,East Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,11,10,34,27,Michael Taylor,2024/25,100005,Mental Health
+2025-08-06 13:29:59,Aug,2025,East Hub,Greenfield Practice,FOCUS,Non-Commercial,True,0,0,0,0,James Patel,2025/26,100009,Dermatology
+2024-05-05 17:36:43,May,2024,East Hub,St Mary's Surgery,IMPACT,Non-Commercial,True,10,9,16,16,David Smith,2024/25,100007,Diabetes
+2023-08-17 16:16:03,Aug,2023,South Hub,Riverside Medical Centre,PULSE,Commercial,False,3,3,5,5,Rachel White,2023/24,100003,Mental Health
+2026-10-19 13:43:54,Oct,2026,West Hub,Park View Medical Practice,FOCUS,Non-Commercial,True,20,6,8,15,Sophie Wilson,2026/27,100009,Mental Health
+2026-12-27 15:27:35,Dec,2026,South Hub,Park View Medical Practice,DISCOVER,Non-Commercial,False,25,4,15,6,James Patel,2026/27,100006,Respiratory
+2025-07-25 12:21:39,Jul,2025,West Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,30,20,20,21,James Patel,2025/26,100009,Oncology
+2023-08-13 17:36:31,Aug,2023,West Hub,Park View Medical Practice,NOVA,Commercial,True,16,13,49,24,Michael Taylor,2023/24,100004,Diabetes
+2024-08-26 10:16:25,Aug,2024,Central Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,11,7,17,21,Emma Brown,2024/25,100007,Respiratory
+2026-06-06 16:25:36,Jun,2026,West Hub,Meadow Lane Surgery,ASTRA,Commercial,True,9,7,19,9,Emma Brown,2026/27,100000,Cardiology
+2023-03-11 08:44:25,Mar,2023,Central Hub,Greenfield Practice,DISCOVER,Non-Commercial,False,20,2,4,4,Rachel White,2022/23,100006,Neurology
+2024-10-01 11:45:18,Oct,2024,South Hub,Riverside Medical Centre,NOVA,Commercial,False,17,16,25,48,Sophie Wilson,2024/25,100004,Dermatology
+2024-12-16 15:10:48,Dec,2024,Central Hub,Oakwood Surgery,GALAXY,Commercial,False,16,6,17,18,Tom Evans,2024/25,100002,Oncology
+2025-02-20 09:38:12,Feb,2025,Central Hub,The Orchard Surgery,PULSE,Commercial,False,5,2,2,2,Sophie Wilson,2024/25,100003,Cardiology
+2026-02-14 08:47:02,Feb,2026,South Hub,Hilltop Health Centre,FOCUS,Non-Commercial,True,10,0,0,3,Sophie Wilson,2025/26,100009,Cardiology
+2023-04-02 16:27:38,Apr,2023,East Hub,Greenfield Practice,INSIGHT,Non-Commercial,True,7,5,17,11,Sarah Jones,2023/24,100005,Oncology
+2025-09-24 16:30:54,Sep,2025,North Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,7,3,4,8,Sophie Wilson,2025/26,100006,Respiratory
+2025-05-11 16:09:48,May,2025,North Hub,Lakeside Health Centre,NOVA,Commercial,False,1,1,2,3,Michael Taylor,2025/26,100004,Respiratory
+2026-12-12 12:14:41,Dec,2026,East Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,11,6,18,6,David Smith,2026/27,100009,Mental Health
+2024-02-09 17:33:40,Feb,2024,North Hub,Willowbrook Practice,HORIZON,Non-Commercial,True,8,1,4,1,Michael Taylor,2023/24,100008,Cardiology
+2026-11-14 16:37:50,Nov,2026,Central Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,0,1,4,3,Sophie Wilson,2026/27,100009,Neurology
+2026-08-13 10:38:43,Aug,2026,North Hub,Lakeside Health Centre,FOCUS,Non-Commercial,False,18,16,42,30,Sarah Jones,2026/27,100009,Cardiology
+2024-09-21 10:53:31,Sep,2024,North Hub,The Orchard Surgery,NOVA,Commercial,True,2,2,2,6,Rachel White,2024/25,100004,Respiratory
+2024-11-13 17:43:17,Nov,2024,South Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,True,14,7,23,10,Sophie Wilson,2024/25,100008,Cardiology
+2026-01-08 15:31:10,Jan,2026,Central Hub,Park View Medical Practice,INSIGHT,Non-Commercial,False,22,19,68,40,Sarah Jones,2025/26,100005,Dermatology
+2026-03-25 17:55:09,Mar,2026,West Hub,The Orchard Surgery,PULSE,Commercial,True,18,10,39,15,Emma Brown,2025/26,100003,Oncology
+2025-08-14 16:07:18,Aug,2025,South Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,4,4,11,4,Sarah Jones,2025/26,100007,Neurology
+2025-02-23 12:44:31,Feb,2025,Central Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,19,5,7,15,Tom Evans,2024/25,100008,Cardiology
+2026-01-16 13:20:22,Jan,2026,South Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,5,1,3,2,Emma Brown,2025/26,100007,Primary Care
+2023-10-28 13:14:44,Oct,2023,South Hub,Park View Medical Practice,PULSE,Commercial,True,0,1,2,2,Rachel White,2023/24,100003,Cardiology
+2023-03-27 17:53:45,Mar,2023,West Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,13,12,41,22,David Smith,2022/23,100009,Diabetes
+2023-09-27 12:32:51,Sep,2023,Central Hub,Meadow Lane Surgery,ASTRA,Commercial,False,1,1,1,1,Emma Brown,2023/24,100000,Dermatology
+2024-06-06 16:33:13,Jun,2024,West Hub,Hilltop Health Centre,PULSE,Commercial,True,21,2,8,5,Michael Taylor,2024/25,100003,Cardiology
+2025-01-16 11:28:46,Jan,2025,East Hub,Hilltop Health Centre,PULSE,Commercial,True,9,2,7,2,Emma Brown,2024/25,100003,Diabetes
+2026-05-25 09:57:14,May,2026,South Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,6,4,4,8,Rachel White,2026/27,100005,Primary Care
+2023-11-27 14:07:17,Nov,2023,North Hub,Oakwood Surgery,INSIGHT,Non-Commercial,True,16,13,25,22,Sophie Wilson,2023/24,100005,Primary Care
+2025-04-11 10:02:32,Apr,2025,South Hub,The Orchard Surgery,NOVA,Commercial,True,5,3,6,5,Emma Brown,2025/26,100004,Primary Care
+2026-03-27 08:47:25,Mar,2026,West Hub,Park View Medical Practice,ORION,Commercial,True,1,0,0,3,James Patel,2025/26,100001,Cardiology
+2026-01-08 12:46:23,Jan,2026,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,6,2,3,5,James Patel,2025/26,100005,Cardiology
+2024-03-05 16:19:28,Mar,2024,West Hub,Greenfield Practice,DISCOVER,Non-Commercial,True,13,13,18,38,Sophie Wilson,2023/24,100006,Diabetes
+2025-10-23 13:00:21,Oct,2025,East Hub,Park View Medical Practice,DISCOVER,Non-Commercial,True,16,10,26,28,Sarah Jones,2025/26,100006,Neurology
+2024-10-19 15:25:17,Oct,2024,East Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,17,11,27,11,Sarah Jones,2024/25,100006,Neurology
+2025-07-04 10:17:17,Jul,2025,East Hub,Oakwood Surgery,ASTRA,Commercial,True,8,6,17,6,David Smith,2025/26,100000,Cardiology
+2023-03-26 09:15:59,Mar,2023,East Hub,Park View Medical Practice,GALAXY,Commercial,False,22,20,32,23,James Patel,2022/23,100002,Cardiology
+2023-10-28 11:03:24,Oct,2023,East Hub,Lakeside Health Centre,GALAXY,Commercial,False,15,4,11,7,Michael Taylor,2023/24,100002,Dermatology
+2026-09-07 08:21:36,Sep,2026,West Hub,Lakeside Health Centre,NOVA,Commercial,True,16,7,26,7,Sophie Wilson,2026/27,100004,Primary Care
+2025-07-05 15:30:20,Jul,2025,Central Hub,Willowbrook Practice,PULSE,Commercial,True,2,1,3,2,Rachel White,2025/26,100003,Primary Care
+2023-03-16 12:58:18,Mar,2023,West Hub,Hilltop Health Centre,HORIZON,Non-Commercial,True,14,10,36,12,Sarah Jones,2022/23,100008,Diabetes
+2024-03-01 13:52:38,Mar,2024,Central Hub,The Orchard Surgery,ASTRA,Commercial,True,3,0,0,4,Emma Brown,2023/24,100000,Mental Health
+2023-06-16 13:33:16,Jun,2023,East Hub,The Orchard Surgery,IMPACT,Non-Commercial,False,28,27,31,35,Michael Taylor,2023/24,100007,Primary Care
+2023-11-21 15:39:06,Nov,2023,West Hub,The Orchard Surgery,PULSE,Commercial,False,13,6,21,18,Sarah Jones,2023/24,100003,Diabetes
+2026-12-14 16:46:15,Dec,2026,West Hub,Lakeside Health Centre,FOCUS,Non-Commercial,False,4,2,2,2,James Patel,2026/27,100009,Diabetes
+2026-05-19 09:00:55,May,2026,South Hub,Willowbrook Practice,HORIZON,Non-Commercial,True,4,2,7,4,Michael Taylor,2026/27,100008,Diabetes
+2023-10-18 15:49:54,Oct,2023,East Hub,Oakwood Surgery,NOVA,Commercial,True,17,13,51,17,James Patel,2023/24,100004,Dermatology
+2025-02-02 08:09:32,Feb,2025,North Hub,Riverside Medical Centre,ASTRA,Commercial,False,7,3,10,9,Rachel White,2024/25,100000,Oncology
+2025-12-01 08:17:02,Dec,2025,East Hub,Willowbrook Practice,IMPACT,Non-Commercial,False,2,1,3,1,Rachel White,2025/26,100007,Neurology
+2024-03-05 15:49:28,Mar,2024,South Hub,Meadow Lane Surgery,DISCOVER,Non-Commercial,True,1,1,1,3,Michael Taylor,2023/24,100006,Primary Care
+2023-03-03 13:14:58,Mar,2023,East Hub,The Orchard Surgery,IMPACT,Non-Commercial,True,7,7,16,7,Michael Taylor,2022/23,100007,Diabetes
+2024-05-10 09:51:40,May,2024,North Hub,Greenfield Practice,DISCOVER,Non-Commercial,True,21,3,4,7,Michael Taylor,2024/25,100006,Oncology
+2024-01-06 17:40:50,Jan,2024,North Hub,Lakeside Health Centre,GALAXY,Commercial,True,3,3,3,5,Emma Brown,2023/24,100002,Dermatology
+2025-05-06 08:26:53,May,2025,Central Hub,The Orchard Surgery,ORION,Commercial,False,19,11,32,25,Rachel White,2025/26,100001,Oncology
+2023-11-03 14:31:33,Nov,2023,South Hub,St Mary's Surgery,HORIZON,Non-Commercial,True,29,26,30,48,Michael Taylor,2023/24,100008,Oncology
+2023-05-10 14:16:16,May,2023,South Hub,Riverside Medical Centre,ASTRA,Commercial,True,12,11,14,11,Michael Taylor,2023/24,100000,Oncology
+2026-03-06 17:51:08,Mar,2026,Central Hub,Greenfield Practice,PULSE,Commercial,False,27,20,74,48,Michael Taylor,2025/26,100003,Cardiology
+2023-07-04 17:25:58,Jul,2023,Central Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,14,10,12,19,James Patel,2023/24,100005,Mental Health
+2024-01-20 13:06:51,Jan,2024,North Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,2,0,0,5,Tom Evans,2023/24,100008,Dermatology
+2026-10-07 13:21:23,Oct,2026,East Hub,Oakwood Surgery,PULSE,Commercial,True,10,10,17,29,James Patel,2026/27,100003,Neurology
+2024-02-14 11:34:05,Feb,2024,South Hub,Meadow Lane Surgery,FOCUS,Non-Commercial,False,28,11,21,16,Tom Evans,2023/24,100009,Diabetes
+2024-11-05 10:00:50,Nov,2024,South Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,20,9,20,9,David Smith,2024/25,100006,Cardiology
+2023-10-15 09:38:52,Oct,2023,South Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,3,3,3,7,Tom Evans,2023/24,100007,Dermatology
+2026-04-07 16:02:27,Apr,2026,Central Hub,Lakeside Health Centre,NOVA,Commercial,True,30,12,29,21,David Smith,2026/27,100004,Dermatology
+2024-06-18 10:25:22,Jun,2024,South Hub,Park View Medical Practice,DISCOVER,Non-Commercial,False,4,2,4,4,Sarah Jones,2024/25,100006,Dermatology
+2026-06-22 10:20:48,Jun,2026,South Hub,Hilltop Health Centre,IMPACT,Non-Commercial,True,9,1,2,3,Sophie Wilson,2026/27,100007,Diabetes
+2026-12-03 13:53:04,Dec,2026,North Hub,Hilltop Health Centre,INSIGHT,Non-Commercial,True,26,10,37,26,Tom Evans,2026/27,100005,Diabetes
+2026-08-24 16:15:21,Aug,2026,South Hub,Meadow Lane Surgery,DISCOVER,Non-Commercial,False,2,1,1,2,David Smith,2026/27,100006,Neurology
+2026-08-22 09:38:42,Aug,2026,Central Hub,Park View Medical Practice,GALAXY,Commercial,True,24,3,3,3,Sarah Jones,2026/27,100002,Oncology
+2025-11-11 11:14:30,Nov,2025,East Hub,St Mary's Surgery,NOVA,Commercial,True,6,5,7,7,David Smith,2025/26,100004,Oncology
+2024-01-02 13:01:31,Jan,2024,North Hub,The Orchard Surgery,IMPACT,Non-Commercial,False,21,13,50,14,Sophie Wilson,2023/24,100007,Respiratory
+2024-09-11 11:34:45,Sep,2024,East Hub,Hilltop Health Centre,ORION,Commercial,True,14,1,4,2,Tom Evans,2024/25,100001,Mental Health
+2024-08-03 17:10:28,Aug,2024,East Hub,Riverside Medical Centre,FOCUS,Non-Commercial,True,14,11,32,12,Michael Taylor,2024/25,100009,Dermatology
+2026-10-13 17:00:36,Oct,2026,South Hub,Hilltop Health Centre,ORION,Commercial,False,21,4,7,11,Tom Evans,2026/27,100001,Cardiology
+2025-09-06 14:14:58,Sep,2025,East Hub,St Mary's Surgery,NOVA,Commercial,True,24,11,25,31,Sarah Jones,2025/26,100004,Respiratory
+2023-02-13 16:07:19,Feb,2023,East Hub,Lakeside Health Centre,NOVA,Commercial,True,12,9,22,12,David Smith,2022/23,100004,Respiratory
+2023-10-21 17:12:55,Oct,2023,South Hub,Willowbrook Practice,FOCUS,Non-Commercial,False,23,11,25,22,Sarah Jones,2023/24,100009,Dermatology
+2023-06-05 16:31:22,Jun,2023,North Hub,Meadow Lane Surgery,PULSE,Commercial,True,1,1,2,3,Michael Taylor,2023/24,100003,Dermatology
+2026-06-28 09:38:50,Jun,2026,North Hub,Park View Medical Practice,IMPACT,Non-Commercial,False,0,1,2,1,Tom Evans,2026/27,100007,Oncology
+2025-11-27 14:54:13,Nov,2025,Central Hub,The Orchard Surgery,NOVA,Commercial,True,27,12,38,36,Rachel White,2025/26,100004,Mental Health
+2023-01-07 09:51:13,Jan,2023,Central Hub,Willowbrook Practice,GALAXY,Commercial,True,25,5,13,8,Emma Brown,2022/23,100002,Mental Health
+2026-05-03 13:56:15,May,2026,East Hub,The Orchard Surgery,DISCOVER,Non-Commercial,True,18,7,14,18,Sophie Wilson,2026/27,100006,Oncology
+2025-05-09 17:16:35,May,2025,North Hub,Hilltop Health Centre,NOVA,Commercial,True,19,0,0,1,Rachel White,2025/26,100004,Neurology
+2026-02-05 10:20:52,Feb,2026,West Hub,St Mary's Surgery,NOVA,Commercial,False,2,2,2,3,Sarah Jones,2025/26,100004,Primary Care
+2026-02-19 11:14:04,Feb,2026,East Hub,Greenfield Practice,FOCUS,Non-Commercial,True,5,1,4,3,Emma Brown,2025/26,100009,Respiratory
+2024-05-05 12:29:21,May,2024,South Hub,Willowbrook Practice,ASTRA,Commercial,False,2,2,6,3,James Patel,2024/25,100000,Oncology
+2026-01-03 09:28:05,Jan,2026,Central Hub,The Orchard Surgery,ASTRA,Commercial,True,30,29,92,30,Sophie Wilson,2025/26,100000,Mental Health
+2024-10-17 17:48:12,Oct,2024,East Hub,Willowbrook Practice,ASTRA,Commercial,True,4,3,12,4,Rachel White,2024/25,100000,Oncology
+2025-01-26 16:24:00,Jan,2025,West Hub,Willowbrook Practice,HORIZON,Non-Commercial,False,4,2,3,2,Tom Evans,2024/25,100008,Respiratory
+2023-03-13 14:35:12,Mar,2023,East Hub,St Mary's Surgery,NOVA,Commercial,True,2,1,3,1,James Patel,2022/23,100004,Oncology
+2024-02-26 13:37:42,Feb,2024,North Hub,St Mary's Surgery,HORIZON,Non-Commercial,False,22,20,37,24,Michael Taylor,2023/24,100008,Neurology
+2025-10-12 16:57:16,Oct,2025,South Hub,The Orchard Surgery,FOCUS,Non-Commercial,True,10,5,5,14,David Smith,2025/26,100009,Cardiology
+2025-11-28 13:21:47,Nov,2025,Central Hub,Park View Medical Practice,ORION,Commercial,True,29,11,19,23,Sarah Jones,2025/26,100001,Dermatology
+2024-02-27 15:11:38,Feb,2024,East Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,9,7,14,12,Rachel White,2023/24,100008,Respiratory
+2024-12-17 11:34:55,Dec,2024,East Hub,Meadow Lane Surgery,GALAXY,Commercial,True,11,1,3,2,Sarah Jones,2024/25,100002,Primary Care
+2025-05-05 13:01:05,May,2025,South Hub,Park View Medical Practice,INSIGHT,Non-Commercial,False,25,12,41,27,James Patel,2025/26,100005,Primary Care
+2026-02-24 15:06:30,Feb,2026,West Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,False,21,9,32,11,Michael Taylor,2025/26,100005,Neurology
+2024-05-05 16:58:52,May,2024,West Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,True,11,1,4,2,Tom Evans,2024/25,100006,Primary Care
+2025-06-25 13:56:50,Jun,2025,West Hub,Lakeside Health Centre,ORION,Commercial,True,21,4,6,9,Michael Taylor,2025/26,100001,Dermatology
+2026-07-28 11:15:52,Jul,2026,Central Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,14,9,15,26,James Patel,2026/27,100005,Mental Health
+2023-01-16 17:04:15,Jan,2023,Central Hub,Oakwood Surgery,FOCUS,Non-Commercial,False,1,0,0,4,Emma Brown,2022/23,100009,Diabetes
+2026-05-18 12:16:41,May,2026,Central Hub,Riverside Medical Centre,PULSE,Commercial,False,14,11,13,33,Sarah Jones,2026/27,100003,Dermatology
+2026-05-20 13:14:24,May,2026,West Hub,The Orchard Surgery,HORIZON,Non-Commercial,False,13,11,17,20,Sarah Jones,2026/27,100008,Mental Health
+2024-06-15 08:07:26,Jun,2024,East Hub,Park View Medical Practice,ORION,Commercial,False,15,3,3,5,Michael Taylor,2024/25,100001,Diabetes
+2023-03-03 11:27:34,Mar,2023,Central Hub,Park View Medical Practice,ORION,Commercial,False,24,1,1,3,Emma Brown,2022/23,100001,Neurology
+2025-09-07 09:18:11,Sep,2025,North Hub,St Mary's Surgery,GALAXY,Commercial,True,1,1,1,2,Sarah Jones,2025/26,100002,Mental Health
+2024-04-10 10:46:53,Apr,2024,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,15,10,22,30,David Smith,2024/25,100005,Mental Health
+2024-12-13 17:52:08,Dec,2024,West Hub,Greenfield Practice,PULSE,Commercial,False,1,0,0,5,Tom Evans,2024/25,100003,Neurology
+2025-09-15 12:34:58,Sep,2025,Central Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,7,6,12,7,Emma Brown,2025/26,100006,Cardiology
+2025-06-20 10:03:05,Jun,2025,North Hub,Riverside Medical Centre,ASTRA,Commercial,True,17,2,6,3,Michael Taylor,2025/26,100000,Dermatology
+2024-05-21 13:49:43,May,2024,North Hub,Hilltop Health Centre,ORION,Commercial,False,27,14,41,17,Tom Evans,2024/25,100001,Diabetes
+2023-03-25 11:32:25,Mar,2023,South Hub,Riverside Medical Centre,NOVA,Commercial,True,16,9,21,21,Emma Brown,2022/23,100004,Oncology
+2026-05-09 10:28:07,May,2026,West Hub,Oakwood Surgery,NOVA,Commercial,True,25,22,77,31,Michael Taylor,2026/27,100004,Cardiology
+2025-09-11 13:58:31,Sep,2025,East Hub,Park View Medical Practice,ORION,Commercial,True,8,1,1,2,David Smith,2025/26,100001,Diabetes
+2026-07-16 15:52:57,Jul,2026,West Hub,Oakwood Surgery,HORIZON,Non-Commercial,True,6,2,4,5,Tom Evans,2026/27,100008,Neurology
+2025-03-06 16:26:37,Mar,2025,Central Hub,Riverside Medical Centre,ORION,Commercial,False,11,6,23,15,Michael Taylor,2024/25,100001,Diabetes
+2026-06-19 13:22:08,Jun,2026,Central Hub,St Mary's Surgery,PULSE,Commercial,True,22,18,21,41,Sarah Jones,2026/27,100003,Cardiology
+2024-10-05 16:58:07,Oct,2024,North Hub,Meadow Lane Surgery,GALAXY,Commercial,False,27,9,18,11,Emma Brown,2024/25,100002,Respiratory
+2023-03-15 08:35:03,Mar,2023,Central Hub,Lakeside Health Centre,ORION,Commercial,False,8,5,15,15,Tom Evans,2022/23,100001,Oncology
+2026-07-16 10:34:08,Jul,2026,East Hub,The Orchard Surgery,NOVA,Commercial,False,1,1,2,1,James Patel,2026/27,100004,Primary Care
+2026-02-19 11:39:10,Feb,2026,East Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,14,7,14,19,Sophie Wilson,2025/26,100005,Primary Care
+2025-12-25 17:04:42,Dec,2025,Central Hub,The Orchard Surgery,NOVA,Commercial,False,16,0,0,0,Michael Taylor,2025/26,100004,Neurology
+2025-03-19 11:04:42,Mar,2025,North Hub,Greenfield Practice,INSIGHT,Non-Commercial,True,2,0,0,1,Rachel White,2024/25,100005,Cardiology
+2023-01-06 15:30:21,Jan,2023,East Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,6,1,1,1,Michael Taylor,2022/23,100008,Neurology
+2026-10-22 09:11:19,Oct,2026,East Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,8,2,8,6,James Patel,2026/27,100006,Primary Care
+2024-09-18 10:19:26,Sep,2024,West Hub,Greenfield Practice,NOVA,Commercial,True,12,0,0,3,Michael Taylor,2024/25,100004,Mental Health
+2023-05-06 16:56:45,May,2023,West Hub,Riverside Medical Centre,FOCUS,Non-Commercial,False,19,6,23,10,Michael Taylor,2023/24,100009,Cardiology
+2025-04-08 16:05:10,Apr,2025,West Hub,Willowbrook Practice,NOVA,Commercial,True,25,13,35,39,Emma Brown,2025/26,100004,Respiratory
+2025-03-25 15:36:35,Mar,2025,East Hub,St Mary's Surgery,ORION,Commercial,True,27,0,0,1,James Patel,2024/25,100001,Oncology
+2024-11-01 17:17:32,Nov,2024,North Hub,Riverside Medical Centre,HORIZON,Non-Commercial,False,2,0,0,2,James Patel,2024/25,100008,Oncology
+2025-04-20 15:18:41,Apr,2025,North Hub,Oakwood Surgery,FOCUS,Non-Commercial,True,23,2,5,3,Sophie Wilson,2025/26,100009,Dermatology
+2025-07-28 15:57:16,Jul,2025,South Hub,Park View Medical Practice,GALAXY,Commercial,False,11,4,14,5,Michael Taylor,2025/26,100002,Respiratory
+2025-01-19 13:15:02,Jan,2025,Central Hub,Lakeside Health Centre,ORION,Commercial,False,28,10,19,15,Emma Brown,2024/25,100001,Primary Care
+2025-12-01 16:29:18,Dec,2025,East Hub,Hilltop Health Centre,NOVA,Commercial,False,28,5,8,9,Sophie Wilson,2025/26,100004,Primary Care
+2025-05-11 13:32:29,May,2025,East Hub,St Mary's Surgery,INSIGHT,Non-Commercial,False,27,2,7,5,Emma Brown,2025/26,100005,Respiratory
+2025-07-10 12:43:17,Jul,2025,Central Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,11,8,12,11,David Smith,2025/26,100007,Neurology
+2024-05-12 15:54:00,May,2024,East Hub,Hilltop Health Centre,ASTRA,Commercial,True,10,6,6,12,James Patel,2024/25,100000,Oncology
+2023-07-02 12:28:46,Jul,2023,East Hub,The Orchard Surgery,ASTRA,Commercial,True,18,8,11,13,Sarah Jones,2023/24,100000,Cardiology
+2023-07-11 15:56:53,Jul,2023,South Hub,Willowbrook Practice,NOVA,Commercial,False,18,16,18,34,Rachel White,2023/24,100004,Oncology
+2025-06-27 11:58:08,Jun,2025,South Hub,Meadow Lane Surgery,ASTRA,Commercial,False,21,9,35,15,Sophie Wilson,2025/26,100000,Neurology
+2026-02-24 16:43:49,Feb,2026,South Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,27,5,20,14,Sarah Jones,2025/26,100007,Diabetes
+2025-01-03 12:51:22,Jan,2025,East Hub,Riverside Medical Centre,INSIGHT,Non-Commercial,False,9,5,15,9,James Patel,2024/25,100005,Dermatology
+2026-04-16 16:30:47,Apr,2026,East Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,True,19,12,37,22,Emma Brown,2026/27,100005,Cardiology
+2026-04-13 17:19:51,Apr,2026,East Hub,St Mary's Surgery,ORION,Commercial,True,27,22,58,62,James Patel,2026/27,100001,Mental Health
+2024-03-06 10:20:04,Mar,2024,North Hub,Greenfield Practice,HORIZON,Non-Commercial,False,1,1,2,1,Michael Taylor,2023/24,100008,Mental Health
+2023-07-08 14:24:02,Jul,2023,Central Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,11,3,3,8,Sarah Jones,2023/24,100009,Diabetes
+2023-03-01 11:03:56,Mar,2023,West Hub,The Orchard Surgery,GALAXY,Commercial,True,23,19,21,32,Michael Taylor,2022/23,100002,Respiratory
+2023-01-14 10:33:13,Jan,2023,North Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,11,5,12,15,Michael Taylor,2022/23,100009,Primary Care
+2026-10-05 11:12:23,Oct,2026,North Hub,Oakwood Surgery,NOVA,Commercial,True,15,1,1,1,Sophie Wilson,2026/27,100004,Neurology
+2026-09-03 15:19:44,Sep,2026,North Hub,Park View Medical Practice,PULSE,Commercial,True,14,12,13,20,Tom Evans,2026/27,100003,Cardiology
+2023-10-10 15:56:03,Oct,2023,East Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,False,18,12,19,21,David Smith,2023/24,100008,Respiratory
+2024-08-01 15:23:31,Aug,2024,South Hub,The Orchard Surgery,PULSE,Commercial,True,18,18,18,40,Sophie Wilson,2024/25,100003,Mental Health
+2023-02-24 13:33:52,Feb,2023,West Hub,Meadow Lane Surgery,PULSE,Commercial,False,18,17,47,23,Tom Evans,2022/23,100003,Neurology
+2025-03-17 15:40:17,Mar,2025,North Hub,Lakeside Health Centre,ASTRA,Commercial,True,4,4,16,11,Rachel White,2024/25,100000,Mental Health
+2024-11-28 10:35:05,Nov,2024,West Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,True,12,11,17,28,James Patel,2024/25,100006,Mental Health
+2024-12-22 11:06:49,Dec,2024,West Hub,Oakwood Surgery,GALAXY,Commercial,True,29,15,21,15,Sarah Jones,2024/25,100002,Respiratory
+2023-01-16 14:03:28,Jan,2023,East Hub,Meadow Lane Surgery,GALAXY,Commercial,True,3,2,7,4,Rachel White,2022/23,100002,Cardiology
+2026-08-12 11:08:33,Aug,2026,North Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,12,7,20,10,Emma Brown,2026/27,100007,Primary Care
+2025-08-07 17:09:35,Aug,2025,Central Hub,The Orchard Surgery,ORION,Commercial,False,20,16,51,34,Rachel White,2025/26,100001,Oncology
+2025-03-24 08:07:10,Mar,2025,South Hub,Hilltop Health Centre,NOVA,Commercial,True,25,7,12,11,James Patel,2024/25,100004,Oncology
+2023-07-14 12:56:41,Jul,2023,North Hub,Meadow Lane Surgery,NOVA,Commercial,True,24,12,32,19,Rachel White,2023/24,100004,Mental Health
+2026-12-21 16:54:04,Dec,2026,South Hub,The Orchard Surgery,DISCOVER,Non-Commercial,True,7,3,12,9,James Patel,2026/27,100006,Neurology
+2025-05-06 10:40:32,May,2025,Central Hub,Oakwood Surgery,PULSE,Commercial,True,12,8,24,13,James Patel,2025/26,100003,Diabetes
+2023-01-24 15:41:25,Jan,2023,Central Hub,The Orchard Surgery,FOCUS,Non-Commercial,False,2,2,6,6,Sarah Jones,2022/23,100009,Oncology
+2024-04-13 17:33:24,Apr,2024,South Hub,Lakeside Health Centre,FOCUS,Non-Commercial,False,17,10,21,25,Tom Evans,2024/25,100009,Primary Care
+2024-11-25 16:31:42,Nov,2024,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,10,10,19,23,Michael Taylor,2024/25,100006,Dermatology
+2026-11-22 11:06:17,Nov,2026,South Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,30,28,33,29,Sophie Wilson,2026/27,100007,Mental Health
+2025-04-26 12:29:51,Apr,2025,East Hub,Oakwood Surgery,ASTRA,Commercial,False,12,12,19,35,Emma Brown,2025/26,100000,Oncology
+2026-01-25 17:18:39,Jan,2026,Central Hub,Willowbrook Practice,PULSE,Commercial,True,22,15,25,26,Michael Taylor,2025/26,100003,Oncology
+2026-03-26 10:44:26,Mar,2026,West Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,11,10,40,16,Michael Taylor,2025/26,100008,Dermatology
+2026-08-08 14:17:24,Aug,2026,West Hub,Greenfield Practice,GALAXY,Commercial,True,11,10,30,15,James Patel,2026/27,100002,Cardiology
+2023-03-14 12:14:17,Mar,2023,East Hub,Willowbrook Practice,GALAXY,Commercial,False,2,0,0,2,Tom Evans,2022/23,100002,Diabetes
+2026-08-08 13:22:27,Aug,2026,South Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,4,3,3,3,Sarah Jones,2026/27,100007,Neurology
+2026-11-16 14:23:07,Nov,2026,West Hub,St Mary's Surgery,ORION,Commercial,True,17,6,14,10,Sarah Jones,2026/27,100001,Respiratory
+2026-05-03 11:39:07,May,2026,West Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,20,0,0,5,Emma Brown,2026/27,100005,Primary Care
+2024-12-16 09:45:23,Dec,2024,Central Hub,Oakwood Surgery,GALAXY,Commercial,False,5,1,1,2,Rachel White,2024/25,100002,Neurology
+2026-07-14 08:53:49,Jul,2026,East Hub,Hilltop Health Centre,HORIZON,Non-Commercial,True,14,14,41,31,Rachel White,2026/27,100008,Dermatology
+2025-10-08 09:28:17,Oct,2025,North Hub,Hilltop Health Centre,GALAXY,Commercial,False,13,2,6,2,Michael Taylor,2025/26,100002,Neurology
+2026-11-25 08:22:59,Nov,2026,North Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,24,8,8,10,James Patel,2026/27,100007,Primary Care
+2025-08-07 15:07:16,Aug,2025,North Hub,Hilltop Health Centre,NOVA,Commercial,True,11,9,25,20,Michael Taylor,2025/26,100004,Oncology
+2024-01-02 11:52:22,Jan,2024,North Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,7,5,10,6,Emma Brown,2023/24,100005,Respiratory
+2024-08-09 13:01:37,Aug,2024,Central Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,4,2,5,6,Sarah Jones,2024/25,100007,Primary Care
+2024-02-28 14:37:49,Feb,2024,South Hub,Greenfield Practice,ASTRA,Commercial,True,8,4,14,7,Tom Evans,2023/24,100000,Cardiology
+2024-08-25 11:23:19,Aug,2024,East Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,19,19,24,24,Tom Evans,2024/25,100006,Neurology
+2023-11-18 11:57:20,Nov,2023,South Hub,Willowbrook Practice,GALAXY,Commercial,True,15,3,7,5,Rachel White,2023/24,100002,Diabetes
+2023-10-10 12:43:40,Oct,2023,West Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,False,27,5,15,8,James Patel,2023/24,100005,Cardiology
+2026-04-09 16:11:28,Apr,2026,Central Hub,St Mary's Surgery,HORIZON,Non-Commercial,True,0,1,3,1,David Smith,2026/27,100008,Diabetes
+2024-10-20 08:28:47,Oct,2024,North Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,18,15,45,20,James Patel,2024/25,100007,Oncology
+2023-02-14 10:06:34,Feb,2023,Central Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,30,14,44,20,Emma Brown,2022/23,100005,Cardiology
+2025-10-01 14:08:36,Oct,2025,North Hub,Willowbrook Practice,GALAXY,Commercial,True,20,6,17,14,James Patel,2025/26,100002,Diabetes
+2023-07-13 17:37:37,Jul,2023,South Hub,Hilltop Health Centre,ORION,Commercial,True,7,4,9,5,Sophie Wilson,2023/24,100001,Oncology
+2025-01-10 13:25:59,Jan,2025,Central Hub,Greenfield Practice,ORION,Commercial,False,0,0,0,1,James Patel,2024/25,100001,Respiratory
+2024-07-01 09:49:47,Jul,2024,East Hub,Meadow Lane Surgery,ASTRA,Commercial,False,7,6,16,16,David Smith,2024/25,100000,Primary Care
+2024-10-23 15:28:24,Oct,2024,East Hub,The Orchard Surgery,ORION,Commercial,True,21,6,6,10,Sophie Wilson,2024/25,100001,Dermatology
+2025-04-05 17:02:25,Apr,2025,Central Hub,The Orchard Surgery,ASTRA,Commercial,False,9,2,8,4,Tom Evans,2025/26,100000,Respiratory
+2024-04-15 11:17:51,Apr,2024,West Hub,Willowbrook Practice,DISCOVER,Non-Commercial,True,21,9,22,10,Tom Evans,2024/25,100006,Neurology
+2023-12-05 09:02:30,Dec,2023,East Hub,Greenfield Practice,HORIZON,Non-Commercial,False,16,1,3,1,David Smith,2023/24,100008,Respiratory
+2025-12-11 17:16:10,Dec,2025,Central Hub,St Mary's Surgery,ORION,Commercial,False,4,2,7,5,Michael Taylor,2025/26,100001,Primary Care
+2024-02-19 15:20:32,Feb,2024,North Hub,Oakwood Surgery,ORION,Commercial,True,0,0,0,1,Tom Evans,2023/24,100001,Cardiology
+2026-04-28 17:13:11,Apr,2026,Central Hub,Hilltop Health Centre,NOVA,Commercial,False,19,10,19,24,David Smith,2026/27,100004,Oncology
+2023-06-07 15:07:27,Jun,2023,Central Hub,Greenfield Practice,DISCOVER,Non-Commercial,True,15,5,17,10,Emma Brown,2023/24,100006,Neurology
+2024-06-12 10:31:00,Jun,2024,West Hub,Oakwood Surgery,GALAXY,Commercial,True,13,13,27,34,Emma Brown,2024/25,100002,Diabetes
+2024-01-22 15:03:25,Jan,2024,Central Hub,Greenfield Practice,GALAXY,Commercial,False,22,8,17,20,Tom Evans,2023/24,100002,Respiratory
+2025-05-03 09:03:06,May,2025,South Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,False,28,24,32,55,Michael Taylor,2025/26,100006,Primary Care
+2025-04-26 10:58:41,Apr,2025,Central Hub,Park View Medical Practice,INSIGHT,Non-Commercial,False,7,6,8,8,Rachel White,2025/26,100005,Dermatology
+2025-03-03 15:17:42,Mar,2025,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,False,27,24,47,59,Tom Evans,2024/25,100006,Cardiology
+2025-02-28 16:11:51,Feb,2025,West Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,13,4,15,5,Michael Taylor,2024/25,100009,Primary Care
+2026-10-17 08:28:49,Oct,2026,South Hub,Riverside Medical Centre,IMPACT,Non-Commercial,False,22,3,5,6,Emma Brown,2026/27,100007,Cardiology
+2025-03-24 17:43:55,Mar,2025,Central Hub,Oakwood Surgery,HORIZON,Non-Commercial,False,18,13,25,22,Tom Evans,2024/25,100008,Dermatology
+2024-06-16 13:28:05,Jun,2024,East Hub,Oakwood Surgery,PULSE,Commercial,True,20,7,28,15,Michael Taylor,2024/25,100003,Dermatology
+2024-12-22 14:03:51,Dec,2024,West Hub,Meadow Lane Surgery,ASTRA,Commercial,False,28,25,49,56,James Patel,2024/25,100000,Cardiology
+2023-05-13 17:18:42,May,2023,Central Hub,Greenfield Practice,NOVA,Commercial,True,12,2,2,2,Emma Brown,2023/24,100004,Primary Care
+2024-08-24 17:56:19,Aug,2024,West Hub,Park View Medical Practice,ASTRA,Commercial,True,8,5,7,13,Rachel White,2024/25,100000,Oncology
+2023-12-14 16:51:56,Dec,2023,South Hub,The Orchard Surgery,GALAXY,Commercial,True,3,0,0,0,Sarah Jones,2023/24,100002,Neurology
+2024-10-25 13:23:19,Oct,2024,East Hub,Hilltop Health Centre,ORION,Commercial,True,29,20,29,27,Michael Taylor,2024/25,100001,Oncology
+2024-09-18 15:27:07,Sep,2024,North Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,14,5,20,7,Rachel White,2024/25,100009,Primary Care
+2024-12-03 17:28:34,Dec,2024,North Hub,Hilltop Health Centre,ASTRA,Commercial,True,25,1,4,2,Sarah Jones,2024/25,100000,Oncology
+2026-10-02 11:32:59,Oct,2026,South Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,29,18,31,33,Sarah Jones,2026/27,100005,Dermatology
+2023-05-28 16:08:14,May,2023,South Hub,Meadow Lane Surgery,ASTRA,Commercial,False,11,2,8,6,Emma Brown,2023/24,100000,Dermatology
+2025-10-04 08:20:23,Oct,2025,South Hub,The Orchard Surgery,ORION,Commercial,False,1,0,0,2,James Patel,2025/26,100001,Respiratory
+2024-06-11 09:38:03,Jun,2024,South Hub,Willowbrook Practice,GALAXY,Commercial,False,2,2,7,5,James Patel,2024/25,100002,Oncology
+2026-06-21 08:45:23,Jun,2026,East Hub,The Orchard Surgery,GALAXY,Commercial,True,23,9,17,15,Michael Taylor,2026/27,100002,Neurology
+2024-01-06 09:39:16,Jan,2024,South Hub,Riverside Medical Centre,ORION,Commercial,False,26,20,35,29,Tom Evans,2023/24,100001,Oncology
+2026-01-09 12:36:49,Jan,2026,North Hub,Park View Medical Practice,PULSE,Commercial,True,29,0,0,0,David Smith,2025/26,100003,Diabetes
+2023-08-26 17:15:49,Aug,2023,Central Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,False,4,2,8,6,James Patel,2023/24,100005,Primary Care
+2023-09-25 14:16:54,Sep,2023,South Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,8,7,26,18,Sophie Wilson,2023/24,100007,Diabetes
+2025-07-25 11:18:37,Jul,2025,West Hub,Hilltop Health Centre,FOCUS,Non-Commercial,True,24,14,27,24,David Smith,2025/26,100009,Respiratory
+2023-08-04 08:41:38,Aug,2023,East Hub,St Mary's Surgery,GALAXY,Commercial,True,8,5,20,14,Michael Taylor,2023/24,100002,Dermatology
+2023-06-05 15:56:26,Jun,2023,East Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,25,5,17,14,Tom Evans,2023/24,100006,Diabetes
+2024-12-05 14:33:32,Dec,2024,East Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,30,20,66,50,Sarah Jones,2024/25,100008,Dermatology
+2026-11-25 15:52:44,Nov,2026,Central Hub,Willowbrook Practice,PULSE,Commercial,False,16,7,21,8,Michael Taylor,2026/27,100003,Dermatology
+2026-07-24 12:34:29,Jul,2026,West Hub,Oakwood Surgery,HORIZON,Non-Commercial,False,13,4,13,6,Sophie Wilson,2026/27,100008,Oncology
+2025-01-05 16:04:11,Jan,2025,Central Hub,Park View Medical Practice,HORIZON,Non-Commercial,True,7,0,0,4,Emma Brown,2024/25,100008,Oncology
+2024-09-13 09:09:06,Sep,2024,East Hub,Greenfield Practice,HORIZON,Non-Commercial,False,13,10,13,16,Tom Evans,2024/25,100008,Diabetes
+2025-05-19 11:33:34,May,2025,North Hub,Lakeside Health Centre,ASTRA,Commercial,False,21,6,15,15,Michael Taylor,2025/26,100000,Respiratory
+2024-09-12 10:07:54,Sep,2024,Central Hub,Willowbrook Practice,GALAXY,Commercial,True,22,16,47,25,Rachel White,2024/25,100002,Neurology
+2024-11-18 17:44:21,Nov,2024,North Hub,Oakwood Surgery,HORIZON,Non-Commercial,True,23,20,37,38,David Smith,2024/25,100008,Primary Care
+2026-09-27 17:03:00,Sep,2026,South Hub,St Mary's Surgery,DISCOVER,Non-Commercial,True,20,20,62,42,Rachel White,2026/27,100006,Diabetes
+2024-08-08 10:56:16,Aug,2024,East Hub,Riverside Medical Centre,ASTRA,Commercial,True,12,6,7,16,Rachel White,2024/25,100000,Diabetes
+2025-09-10 08:53:30,Sep,2025,North Hub,Willowbrook Practice,DISCOVER,Non-Commercial,False,3,1,1,2,Michael Taylor,2025/26,100006,Primary Care
+2023-10-04 10:16:27,Oct,2023,North Hub,Willowbrook Practice,IMPACT,Non-Commercial,False,7,0,0,4,Rachel White,2023/24,100007,Oncology
+2025-08-13 13:29:56,Aug,2025,South Hub,Hilltop Health Centre,GALAXY,Commercial,False,2,2,3,4,Rachel White,2025/26,100002,Cardiology
+2024-04-26 16:36:39,Apr,2024,Central Hub,Riverside Medical Centre,NOVA,Commercial,False,28,18,53,39,Rachel White,2024/25,100004,Dermatology
+2023-08-12 10:24:06,Aug,2023,South Hub,Oakwood Surgery,ASTRA,Commercial,False,3,1,2,1,Tom Evans,2023/24,100000,Cardiology
+2023-08-09 09:31:56,Aug,2023,South Hub,Willowbrook Practice,GALAXY,Commercial,False,23,3,11,7,Sophie Wilson,2023/24,100002,Diabetes
+2024-12-18 14:49:37,Dec,2024,East Hub,The Orchard Surgery,HORIZON,Non-Commercial,True,24,0,0,5,Tom Evans,2024/25,100008,Neurology
+2024-01-23 17:12:23,Jan,2024,North Hub,Hilltop Health Centre,IMPACT,Non-Commercial,False,30,13,52,29,Sophie Wilson,2023/24,100007,Respiratory
+2025-01-06 17:44:39,Jan,2025,East Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,False,7,5,7,11,Sarah Jones,2024/25,100006,Diabetes
+2023-03-13 16:08:29,Mar,2023,Central Hub,St Mary's Surgery,INSIGHT,Non-Commercial,True,22,16,22,45,Michael Taylor,2022/23,100005,Mental Health
+2024-09-23 10:26:53,Sep,2024,West Hub,Greenfield Practice,HORIZON,Non-Commercial,False,0,1,3,1,Sarah Jones,2024/25,100008,Cardiology
+2024-01-21 13:55:46,Jan,2024,Central Hub,The Orchard Surgery,ASTRA,Commercial,False,12,0,0,4,Emma Brown,2023/24,100000,Oncology
+2026-08-10 13:48:42,Aug,2026,Central Hub,Meadow Lane Surgery,NOVA,Commercial,False,30,22,79,56,Sarah Jones,2026/27,100004,Primary Care
+2026-01-19 14:12:44,Jan,2026,Central Hub,Hilltop Health Centre,ORION,Commercial,True,18,0,0,1,Sarah Jones,2025/26,100001,Mental Health
+2025-06-26 11:37:30,Jun,2025,East Hub,Riverside Medical Centre,HORIZON,Non-Commercial,True,11,0,0,3,Rachel White,2025/26,100008,Oncology
+2026-02-11 09:35:02,Feb,2026,East Hub,The Orchard Surgery,INSIGHT,Non-Commercial,True,26,18,58,21,James Patel,2025/26,100005,Respiratory
+2026-10-24 16:58:59,Oct,2026,South Hub,Oakwood Surgery,INSIGHT,Non-Commercial,True,5,4,11,9,Tom Evans,2026/27,100005,Oncology
+2026-10-17 13:15:39,Oct,2026,East Hub,Lakeside Health Centre,PULSE,Commercial,False,21,11,19,23,David Smith,2026/27,100003,Cardiology
+2025-09-15 13:47:42,Sep,2025,East Hub,Meadow Lane Surgery,PULSE,Commercial,False,16,0,0,2,Emma Brown,2025/26,100003,Mental Health
+2026-07-08 12:26:09,Jul,2026,West Hub,Willowbrook Practice,HORIZON,Non-Commercial,True,2,0,0,4,Tom Evans,2026/27,100008,Cardiology
+2026-11-20 12:44:09,Nov,2026,West Hub,Willowbrook Practice,GALAXY,Commercial,True,17,9,36,22,Tom Evans,2026/27,100002,Mental Health
+2025-02-07 11:54:45,Feb,2025,North Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,2,0,0,1,Rachel White,2024/25,100005,Diabetes
+2024-06-19 15:58:58,Jun,2024,East Hub,Greenfield Practice,FOCUS,Non-Commercial,False,8,7,25,10,Emma Brown,2024/25,100009,Mental Health
+2026-01-15 15:14:02,Jan,2026,East Hub,Lakeside Health Centre,FOCUS,Non-Commercial,True,19,16,17,29,Emma Brown,2025/26,100009,Cardiology
+2024-08-04 14:21:27,Aug,2024,South Hub,Willowbrook Practice,ORION,Commercial,False,6,6,15,7,Emma Brown,2024/25,100001,Respiratory
+2023-11-26 08:19:39,Nov,2023,East Hub,The Orchard Surgery,FOCUS,Non-Commercial,False,2,2,5,2,Michael Taylor,2023/24,100009,Mental Health
+2023-08-16 09:37:00,Aug,2023,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,True,21,16,40,21,Emma Brown,2023/24,100006,Oncology
+2023-04-18 16:27:21,Apr,2023,West Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,2,1,1,2,Rachel White,2023/24,100005,Mental Health
+2026-09-14 15:43:34,Sep,2026,Central Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,19,16,41,40,Michael Taylor,2026/27,100005,Cardiology
+2025-09-24 11:45:48,Sep,2025,West Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,21,8,22,24,James Patel,2025/26,100007,Primary Care
+2026-09-15 11:01:29,Sep,2026,South Hub,Oakwood Surgery,GALAXY,Commercial,True,16,9,9,19,Sophie Wilson,2026/27,100002,Mental Health
+2023-11-02 16:17:59,Nov,2023,Central Hub,Hilltop Health Centre,NOVA,Commercial,False,30,0,0,0,Sophie Wilson,2023/24,100004,Dermatology
+2025-02-15 10:44:22,Feb,2025,Central Hub,Hilltop Health Centre,FOCUS,Non-Commercial,False,27,0,0,3,David Smith,2024/25,100009,Oncology
+2026-07-20 17:32:30,Jul,2026,West Hub,The Orchard Surgery,IMPACT,Non-Commercial,False,4,2,3,3,Sophie Wilson,2026/27,100007,Neurology
+2023-02-25 15:19:44,Feb,2023,East Hub,Park View Medical Practice,PULSE,Commercial,True,28,0,0,3,Michael Taylor,2022/23,100003,Cardiology
+2026-07-04 10:42:24,Jul,2026,South Hub,Park View Medical Practice,DISCOVER,Non-Commercial,False,22,0,0,3,Michael Taylor,2026/27,100006,Neurology
+2023-12-04 08:51:05,Dec,2023,North Hub,Park View Medical Practice,HORIZON,Non-Commercial,True,29,27,66,53,Emma Brown,2023/24,100008,Diabetes
+2026-08-10 15:00:29,Aug,2026,East Hub,St Mary's Surgery,FOCUS,Non-Commercial,False,20,13,17,15,Sarah Jones,2026/27,100009,Diabetes
+2023-08-10 13:09:52,Aug,2023,South Hub,St Mary's Surgery,ASTRA,Commercial,False,7,7,11,11,Tom Evans,2023/24,100000,Oncology
+2023-12-05 14:46:44,Dec,2023,Central Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,29,20,58,30,Rachel White,2023/24,100008,Mental Health
+2023-12-12 13:36:40,Dec,2023,East Hub,Oakwood Surgery,IMPACT,Non-Commercial,False,5,2,8,2,David Smith,2023/24,100007,Respiratory
+2025-03-28 12:02:40,Mar,2025,South Hub,Park View Medical Practice,INSIGHT,Non-Commercial,True,9,7,9,15,Tom Evans,2024/25,100005,Neurology
+2023-11-18 17:29:17,Nov,2023,North Hub,Lakeside Health Centre,GALAXY,Commercial,True,13,4,7,8,Tom Evans,2023/24,100002,Mental Health
+2024-07-09 15:42:12,Jul,2024,South Hub,Meadow Lane Surgery,PULSE,Commercial,False,11,10,20,15,Tom Evans,2024/25,100003,Oncology
+2024-10-21 16:23:53,Oct,2024,North Hub,Greenfield Practice,INSIGHT,Non-Commercial,False,26,11,14,12,Tom Evans,2024/25,100005,Dermatology
+2025-08-27 14:21:35,Aug,2025,South Hub,St Mary's Surgery,GALAXY,Commercial,False,20,1,2,1,Tom Evans,2025/26,100002,Mental Health
+2026-07-03 09:12:01,Jul,2026,North Hub,Riverside Medical Centre,NOVA,Commercial,True,7,1,1,3,Tom Evans,2026/27,100004,Primary Care
+2023-08-17 08:47:20,Aug,2023,West Hub,Greenfield Practice,NOVA,Commercial,False,18,17,43,19,Tom Evans,2023/24,100004,Mental Health
+2023-08-11 10:33:40,Aug,2023,South Hub,The Orchard Surgery,DISCOVER,Non-Commercial,False,28,15,40,17,Emma Brown,2023/24,100006,Cardiology
+2023-10-08 08:03:07,Oct,2023,South Hub,The Orchard Surgery,ASTRA,Commercial,False,9,9,36,21,Emma Brown,2023/24,100000,Mental Health
+2024-12-10 09:08:56,Dec,2024,South Hub,Willowbrook Practice,DISCOVER,Non-Commercial,False,3,3,10,3,Tom Evans,2024/25,100006,Diabetes
+2025-12-07 11:47:22,Dec,2025,North Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,False,20,8,19,8,Sarah Jones,2025/26,100007,Cardiology
+2026-07-06 17:41:22,Jul,2026,Central Hub,Willowbrook Practice,DISCOVER,Non-Commercial,True,29,28,82,68,Sophie Wilson,2026/27,100006,Respiratory
+2026-11-03 10:43:28,Nov,2026,North Hub,Greenfield Practice,ORION,Commercial,True,12,6,11,14,David Smith,2026/27,100001,Diabetes
+2024-11-12 10:15:23,Nov,2024,South Hub,St Mary's Surgery,GALAXY,Commercial,False,20,17,26,42,Emma Brown,2024/25,100002,Respiratory
+2024-04-16 09:35:15,Apr,2024,South Hub,Lakeside Health Centre,ORION,Commercial,True,24,16,41,29,David Smith,2024/25,100001,Oncology
+2026-04-05 14:23:26,Apr,2026,Central Hub,Oakwood Surgery,INSIGHT,Non-Commercial,True,28,11,22,29,Michael Taylor,2026/27,100005,Neurology
+2023-02-23 17:48:11,Feb,2023,North Hub,St Mary's Surgery,ASTRA,Commercial,True,11,3,12,5,Sophie Wilson,2022/23,100000,Oncology
+2026-06-09 12:14:46,Jun,2026,East Hub,Park View Medical Practice,ORION,Commercial,True,19,19,60,50,Sarah Jones,2026/27,100001,Primary Care
+2025-07-09 12:54:28,Jul,2025,West Hub,Oakwood Surgery,ORION,Commercial,False,16,3,9,8,Sarah Jones,2025/26,100001,Oncology
+2024-08-28 09:09:15,Aug,2024,East Hub,Greenfield Practice,HORIZON,Non-Commercial,True,3,3,10,3,James Patel,2024/25,100008,Oncology
+2025-10-16 12:06:45,Oct,2025,West Hub,Park View Medical Practice,GALAXY,Commercial,True,5,3,11,6,Rachel White,2025/26,100002,Respiratory
+2023-03-26 09:24:07,Mar,2023,Central Hub,The Orchard Surgery,DISCOVER,Non-Commercial,True,15,11,37,31,James Patel,2022/23,100006,Oncology
+2026-06-13 08:21:38,Jun,2026,East Hub,Greenfield Practice,INSIGHT,Non-Commercial,True,25,15,54,19,Sarah Jones,2026/27,100005,Diabetes
+2026-09-07 13:34:11,Sep,2026,South Hub,Greenfield Practice,ASTRA,Commercial,False,26,16,31,20,Tom Evans,2026/27,100000,Oncology
+2023-09-06 14:37:27,Sep,2023,Central Hub,Willowbrook Practice,ORION,Commercial,False,6,0,0,3,Michael Taylor,2023/24,100001,Respiratory
+2024-01-08 13:12:04,Jan,2024,North Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,True,3,1,4,2,James Patel,2023/24,100006,Cardiology
+2024-09-18 08:13:57,Sep,2024,North Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,26,17,32,46,Rachel White,2024/25,100006,Respiratory
+2024-05-16 11:41:47,May,2024,South Hub,Park View Medical Practice,NOVA,Commercial,False,26,25,45,44,Tom Evans,2024/25,100004,Mental Health
+2024-06-13 17:50:05,Jun,2024,West Hub,Lakeside Health Centre,FOCUS,Non-Commercial,False,15,5,10,5,Emma Brown,2024/25,100009,Respiratory
+2026-05-12 15:45:31,May,2026,North Hub,Riverside Medical Centre,ORION,Commercial,True,3,2,4,6,James Patel,2026/27,100001,Oncology
+2023-08-25 14:18:10,Aug,2023,East Hub,Hilltop Health Centre,NOVA,Commercial,False,2,0,0,1,Emma Brown,2023/24,100004,Oncology
+2026-05-15 11:58:31,May,2026,Central Hub,St Mary's Surgery,GALAXY,Commercial,False,8,0,0,4,Sarah Jones,2026/27,100002,Oncology
+2023-09-03 14:37:48,Sep,2023,Central Hub,Oakwood Surgery,ORION,Commercial,False,10,1,3,3,Rachel White,2023/24,100001,Oncology
+2024-09-12 16:09:26,Sep,2024,Central Hub,Willowbrook Practice,NOVA,Commercial,False,27,2,5,5,Sophie Wilson,2024/25,100004,Dermatology
+2024-11-27 16:24:46,Nov,2024,West Hub,Hilltop Health Centre,GALAXY,Commercial,True,11,5,14,6,Sophie Wilson,2024/25,100002,Neurology
+2024-01-13 15:27:49,Jan,2024,East Hub,Lakeside Health Centre,HORIZON,Non-Commercial,True,15,10,26,30,Rachel White,2023/24,100008,Cardiology
+2026-04-12 13:02:29,Apr,2026,North Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,6,5,11,12,James Patel,2026/27,100005,Oncology
+2026-03-18 13:11:02,Mar,2026,East Hub,Park View Medical Practice,ORION,Commercial,True,2,0,0,2,Sarah Jones,2025/26,100001,Neurology
+2023-12-20 08:54:17,Dec,2023,South Hub,Meadow Lane Surgery,ORION,Commercial,True,30,28,46,79,Michael Taylor,2023/24,100001,Dermatology
+2025-08-06 14:30:17,Aug,2025,North Hub,Riverside Medical Centre,GALAXY,Commercial,False,7,2,3,5,Sarah Jones,2025/26,100002,Mental Health
+2024-01-06 11:25:17,Jan,2024,South Hub,Lakeside Health Centre,ASTRA,Commercial,True,6,6,14,7,Michael Taylor,2023/24,100000,Mental Health
+2024-03-28 13:56:30,Mar,2024,West Hub,Greenfield Practice,IMPACT,Non-Commercial,True,22,17,32,21,Rachel White,2023/24,100007,Diabetes
+2026-04-04 15:36:29,Apr,2026,South Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,True,2,0,0,4,James Patel,2026/27,100005,Mental Health
+2023-10-05 14:38:20,Oct,2023,North Hub,Hilltop Health Centre,GALAXY,Commercial,False,2,0,0,3,David Smith,2023/24,100002,Cardiology
+2026-11-09 16:27:20,Nov,2026,Central Hub,Oakwood Surgery,ORION,Commercial,False,12,1,1,1,David Smith,2026/27,100001,Diabetes
+2026-05-09 14:16:34,May,2026,East Hub,The Orchard Surgery,INSIGHT,Non-Commercial,True,11,5,6,6,Tom Evans,2026/27,100005,Dermatology
+2025-07-16 13:56:42,Jul,2025,South Hub,Greenfield Practice,ORION,Commercial,False,26,23,82,27,Sophie Wilson,2025/26,100001,Dermatology
+2023-12-27 17:20:42,Dec,2023,North Hub,Park View Medical Practice,HORIZON,Non-Commercial,False,4,3,7,5,Tom Evans,2023/24,100008,Cardiology
+2023-09-02 17:09:09,Sep,2023,Central Hub,Riverside Medical Centre,ORION,Commercial,True,5,2,2,2,Tom Evans,2023/24,100001,Cardiology
+2023-07-12 10:53:47,Jul,2023,South Hub,Hilltop Health Centre,NOVA,Commercial,True,26,19,59,40,Emma Brown,2023/24,100004,Primary Care
+2026-07-24 16:21:55,Jul,2026,East Hub,Hilltop Health Centre,ORION,Commercial,False,3,0,0,2,Sarah Jones,2026/27,100001,Respiratory
+2025-06-16 14:24:08,Jun,2025,East Hub,Willowbrook Practice,DISCOVER,Non-Commercial,False,15,4,11,9,Emma Brown,2025/26,100006,Diabetes
+2026-04-23 09:32:53,Apr,2026,North Hub,Lakeside Health Centre,ORION,Commercial,False,3,2,6,4,Michael Taylor,2026/27,100001,Oncology
+2026-09-20 17:57:16,Sep,2026,East Hub,Willowbrook Practice,FOCUS,Non-Commercial,True,29,24,40,27,Michael Taylor,2026/27,100009,Neurology
+2025-10-02 11:29:00,Oct,2025,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,True,29,18,44,43,David Smith,2025/26,100005,Diabetes
+2026-02-22 14:42:05,Feb,2026,East Hub,Greenfield Practice,NOVA,Commercial,True,26,13,44,26,Michael Taylor,2025/26,100004,Neurology
+2023-04-17 12:29:10,Apr,2023,North Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,True,1,1,2,2,Sarah Jones,2023/24,100006,Primary Care
+2025-03-16 13:14:12,Mar,2025,Central Hub,Oakwood Surgery,IMPACT,Non-Commercial,True,3,2,7,2,Sophie Wilson,2024/25,100007,Oncology
+2024-07-17 14:30:10,Jul,2024,Central Hub,Lakeside Health Centre,ASTRA,Commercial,False,10,6,14,14,James Patel,2024/25,100000,Oncology
+2026-07-18 13:49:38,Jul,2026,East Hub,Hilltop Health Centre,NOVA,Commercial,True,11,7,13,7,David Smith,2026/27,100004,Cardiology
+2026-03-10 12:39:18,Mar,2026,Central Hub,St Mary's Surgery,ASTRA,Commercial,True,22,7,28,8,Sophie Wilson,2025/26,100000,Oncology
+2023-12-11 15:40:17,Dec,2023,Central Hub,Hilltop Health Centre,NOVA,Commercial,False,8,1,2,1,Michael Taylor,2023/24,100004,Cardiology
+2024-12-13 12:36:11,Dec,2024,West Hub,Greenfield Practice,GALAXY,Commercial,False,11,2,3,4,Rachel White,2024/25,100002,Cardiology
+2023-02-23 17:34:47,Feb,2023,Central Hub,The Orchard Surgery,IMPACT,Non-Commercial,False,11,2,4,3,James Patel,2022/23,100007,Oncology
+2025-07-13 09:40:54,Jul,2025,East Hub,Meadow Lane Surgery,IMPACT,Non-Commercial,True,13,0,0,0,David Smith,2025/26,100007,Respiratory
+2024-01-23 17:45:12,Jan,2024,South Hub,Park View Medical Practice,FOCUS,Non-Commercial,False,16,9,31,10,Rachel White,2023/24,100009,Respiratory
+2026-06-15 16:04:47,Jun,2026,South Hub,Hilltop Health Centre,DISCOVER,Non-Commercial,True,14,12,30,24,Michael Taylor,2026/27,100006,Cardiology
+2025-06-21 16:39:02,Jun,2025,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,1,0,0,2,James Patel,2025/26,100005,Cardiology
+2023-08-15 09:52:02,Aug,2023,North Hub,St Mary's Surgery,PULSE,Commercial,False,3,2,4,4,James Patel,2023/24,100003,Neurology
+2023-11-06 09:14:20,Nov,2023,Central Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,True,6,6,11,13,Emma Brown,2023/24,100005,Cardiology
+2025-02-02 15:07:43,Feb,2025,South Hub,Greenfield Practice,HORIZON,Non-Commercial,False,22,6,9,13,James Patel,2024/25,100008,Cardiology
+2024-08-15 08:05:07,Aug,2024,Central Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,20,12,48,22,Sarah Jones,2024/25,100007,Cardiology
+2024-08-15 09:22:10,Aug,2024,Central Hub,The Orchard Surgery,FOCUS,Non-Commercial,True,12,1,2,2,Tom Evans,2024/25,100009,Respiratory
+2026-07-18 12:12:40,Jul,2026,Central Hub,The Orchard Surgery,NOVA,Commercial,True,6,5,13,10,Emma Brown,2026/27,100004,Oncology
+2023-09-10 16:57:40,Sep,2023,South Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,2,0,0,4,James Patel,2023/24,100005,Oncology
+2025-01-12 13:24:30,Jan,2025,South Hub,Greenfield Practice,ASTRA,Commercial,True,7,1,1,2,Sarah Jones,2024/25,100000,Oncology
+2026-01-22 10:40:08,Jan,2026,East Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,24,18,38,48,Emma Brown,2025/26,100009,Respiratory
+2023-12-16 08:35:36,Dec,2023,Central Hub,Oakwood Surgery,ASTRA,Commercial,True,8,0,0,4,James Patel,2023/24,100000,Diabetes
+2024-04-10 09:31:06,Apr,2024,North Hub,Meadow Lane Surgery,INSIGHT,Non-Commercial,False,10,2,5,3,Tom Evans,2024/25,100005,Respiratory
+2023-01-16 13:16:23,Jan,2023,West Hub,Riverside Medical Centre,GALAXY,Commercial,True,5,2,7,4,Michael Taylor,2022/23,100002,Mental Health
+2023-07-06 17:58:30,Jul,2023,East Hub,Riverside Medical Centre,HORIZON,Non-Commercial,False,23,18,47,27,Rachel White,2023/24,100008,Primary Care
+2023-07-02 14:10:11,Jul,2023,South Hub,Park View Medical Practice,ORION,Commercial,True,30,9,14,22,Sarah Jones,2023/24,100001,Primary Care
+2025-06-25 16:10:47,Jun,2025,Central Hub,Willowbrook Practice,PULSE,Commercial,True,21,13,14,24,Emma Brown,2025/26,100003,Dermatology
+2024-06-14 09:05:29,Jun,2024,Central Hub,Park View Medical Practice,ASTRA,Commercial,True,5,5,18,9,James Patel,2024/25,100000,Respiratory
+2023-08-20 09:11:42,Aug,2023,East Hub,Lakeside Health Centre,PULSE,Commercial,True,14,14,54,24,Rachel White,2023/24,100003,Dermatology
+2024-11-21 17:25:25,Nov,2024,East Hub,Willowbrook Practice,DISCOVER,Non-Commercial,True,10,5,11,8,Emma Brown,2024/25,100006,Diabetes
+2024-10-08 15:27:04,Oct,2024,Central Hub,Lakeside Health Centre,INSIGHT,Non-Commercial,False,8,1,2,2,Emma Brown,2024/25,100005,Primary Care
+2023-08-01 15:47:46,Aug,2023,West Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,0,0,0,4,Michael Taylor,2023/24,100009,Primary Care
+2026-11-26 16:23:02,Nov,2026,North Hub,Meadow Lane Surgery,HORIZON,Non-Commercial,False,6,1,2,1,Sophie Wilson,2026/27,100008,Cardiology
+2026-01-12 10:23:59,Jan,2026,West Hub,Riverside Medical Centre,ASTRA,Commercial,False,6,4,16,5,Sarah Jones,2025/26,100000,Dermatology
+2023-11-16 08:40:04,Nov,2023,North Hub,St Mary's Surgery,INSIGHT,Non-Commercial,True,26,10,23,23,Sarah Jones,2023/24,100005,Cardiology
+2024-04-17 15:16:32,Apr,2024,East Hub,Lakeside Health Centre,ORION,Commercial,False,3,1,3,1,Sarah Jones,2024/25,100001,Primary Care
+2026-04-09 12:37:56,Apr,2026,East Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,30,9,35,21,Tom Evans,2026/27,100005,Dermatology
+2024-09-11 11:08:38,Sep,2024,North Hub,Riverside Medical Centre,IMPACT,Non-Commercial,True,7,4,10,4,David Smith,2024/25,100007,Oncology
+2026-03-24 15:49:05,Mar,2026,South Hub,Lakeside Health Centre,ORION,Commercial,False,19,6,18,17,Tom Evans,2025/26,100001,Dermatology
+2024-12-05 08:39:31,Dec,2024,Central Hub,Oakwood Surgery,INSIGHT,Non-Commercial,False,20,14,15,40,Rachel White,2024/25,100005,Dermatology
+2025-10-13 15:57:08,Oct,2025,North Hub,Willowbrook Practice,IMPACT,Non-Commercial,True,9,3,6,6,Sophie Wilson,2025/26,100007,Dermatology
+2026-09-17 11:01:37,Sep,2026,South Hub,Riverside Medical Centre,HORIZON,Non-Commercial,True,9,1,1,2,Emma Brown,2026/27,100008,Neurology
+2024-01-25 14:20:19,Jan,2024,Central Hub,Willowbrook Practice,NOVA,Commercial,False,26,5,14,9,Sophie Wilson,2023/24,100004,Oncology
+2026-01-02 10:35:28,Jan,2026,East Hub,Willowbrook Practice,PULSE,Commercial,True,27,25,59,63,James Patel,2025/26,100003,Dermatology
+2026-11-16 16:16:48,Nov,2026,East Hub,Lakeside Health Centre,PULSE,Commercial,True,30,14,42,39,Rachel White,2026/27,100003,Cardiology
+2023-02-15 10:36:51,Feb,2023,South Hub,Hilltop Health Centre,ORION,Commercial,True,10,0,0,0,Sarah Jones,2022/23,100001,Diabetes
+2024-01-03 17:38:17,Jan,2024,Central Hub,Oakwood Surgery,DISCOVER,Non-Commercial,False,24,14,37,26,Emma Brown,2023/24,100006,Respiratory
+2025-11-21 16:27:55,Nov,2025,Central Hub,Riverside Medical Centre,PULSE,Commercial,True,4,1,3,1,Sophie Wilson,2025/26,100003,Primary Care
+2024-01-02 16:13:24,Jan,2024,West Hub,Willowbrook Practice,INSIGHT,Non-Commercial,False,1,0,0,3,Sophie Wilson,2023/24,100005,Diabetes
+2025-02-21 16:20:53,Feb,2025,South Hub,St Mary's Surgery,ASTRA,Commercial,False,22,13,49,13,David Smith,2024/25,100000,Mental Health
+2024-12-14 12:16:03,Dec,2024,East Hub,Meadow Lane Surgery,NOVA,Commercial,True,27,16,16,48,Michael Taylor,2024/25,100004,Diabetes
+2024-04-22 17:36:33,Apr,2024,East Hub,Oakwood Surgery,FOCUS,Non-Commercial,True,2,2,4,5,Sophie Wilson,2024/25,100009,Neurology
+2025-01-25 17:38:11,Jan,2025,Central Hub,Oakwood Surgery,ORION,Commercial,True,4,3,5,8,David Smith,2024/25,100001,Cardiology
+2026-11-11 09:46:04,Nov,2026,South Hub,Riverside Medical Centre,NOVA,Commercial,False,26,18,72,29,James Patel,2026/27,100004,Mental Health
+2023-07-16 09:30:13,Jul,2023,West Hub,Meadow Lane Surgery,NOVA,Commercial,False,16,6,19,7,James Patel,2023/24,100004,Neurology
+2023-04-01 08:37:22,Apr,2023,North Hub,Oakwood Surgery,ASTRA,Commercial,False,5,2,7,4,Emma Brown,2023/24,100000,Respiratory
+2024-09-15 09:10:09,Sep,2024,South Hub,Lakeside Health Centre,FOCUS,Non-Commercial,True,26,10,38,19,Sarah Jones,2024/25,100009,Neurology
+2024-02-12 15:02:27,Feb,2024,West Hub,Riverside Medical Centre,NOVA,Commercial,True,19,6,24,8,James Patel,2023/24,100004,Diabetes
+2026-05-28 15:54:50,May,2026,North Hub,St Mary's Surgery,FOCUS,Non-Commercial,True,5,0,0,5,James Patel,2026/27,100009,Dermatology
+2025-08-03 11:02:39,Aug,2025,West Hub,Willowbrook Practice,GALAXY,Commercial,True,26,18,72,27,James Patel,2025/26,100002,Diabetes
+2026-06-19 10:27:08,Jun,2026,North Hub,Greenfield Practice,ASTRA,Commercial,False,12,2,6,3,David Smith,2026/27,100000,Cardiology
+2023-06-20 08:20:15,Jun,2023,East Hub,Willowbrook Practice,DISCOVER,Non-Commercial,False,7,2,2,6,Sophie Wilson,2023/24,100006,Primary Care
+2023-07-11 17:41:15,Jul,2023,Central Hub,The Orchard Surgery,ORION,Commercial,False,7,7,26,8,David Smith,2023/24,100001,Mental Health
+2023-09-12 11:32:33,Sep,2023,Central Hub,Lakeside Health Centre,HORIZON,Non-Commercial,False,28,11,22,24,Tom Evans,2023/24,100008,Primary Care
+2024-02-05 09:44:52,Feb,2024,West Hub,Riverside Medical Centre,GALAXY,Commercial,True,16,0,0,4,Sophie Wilson,2023/24,100002,Primary Care
+2024-09-25 09:39:40,Sep,2024,North Hub,Park View Medical Practice,HORIZON,Non-Commercial,True,2,0,0,3,Rachel White,2024/25,100008,Primary Care
+2026-08-07 12:03:23,Aug,2026,Central Hub,Willowbrook Practice,PULSE,Commercial,True,8,4,6,12,Sarah Jones,2026/27,100003,Oncology
+2024-09-06 16:43:45,Sep,2024,North Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,False,4,3,7,5,James Patel,2024/25,100006,Primary Care
+2023-08-09 09:36:53,Aug,2023,Central Hub,Meadow Lane Surgery,ORION,Commercial,False,22,14,54,31,Tom Evans,2023/24,100001,Diabetes
+2023-12-11 16:57:57,Dec,2023,East Hub,Oakwood Surgery,ASTRA,Commercial,True,16,12,41,25,David Smith,2023/24,100000,Dermatology
+2024-07-28 16:52:37,Jul,2024,Central Hub,Riverside Medical Centre,DISCOVER,Non-Commercial,False,25,15,40,20,James Patel,2024/25,100006,Respiratory
+2023-11-03 12:50:43,Nov,2023,North Hub,The Orchard Surgery,INSIGHT,Non-Commercial,True,10,10,38,27,Sophie Wilson,2023/24,100005,Mental Health
+2023-07-26 16:11:32,Jul,2023,Central Hub,Lakeside Health Centre,DISCOVER,Non-Commercial,True,13,4,5,12,James Patel,2023/24,100006,Mental Health
+2025-07-23 15:28:38,Jul,2025,West Hub,Oakwood Surgery,HORIZON,Non-Commercial,False,16,16,33,47,Tom Evans,2025/26,100008,Neurology
+2025-06-04 09:17:07,Jun,2025,West Hub,Willowbrook Practice,ORION,Commercial,True,20,15,29,19,Tom Evans,2025/26,100001,Respiratory
+2023-10-17 15:02:06,Oct,2023,East Hub,Hilltop Health Centre,ASTRA,Commercial,False,7,1,1,1,Emma Brown,2023/24,100000,Dermatology
+2026-03-06 17:12:02,Mar,2026,East Hub,Greenfield Practice,INSIGHT,Non-Commercial,True,22,2,4,5,Michael Taylor,2025/26,100005,Mental Health
+2024-12-13 08:47:19,Dec,2024,West Hub,Hilltop Health Centre,GALAXY,Commercial,False,17,13,45,17,Emma Brown,2024/25,100002,Cardiology
+2025-12-25 10:15:53,Dec,2025,South Hub,Lakeside Health Centre,FOCUS,Non-Commercial,False,0,1,4,2,Rachel White,2025/26,100009,Primary Care
+2023-03-23 11:30:42,Mar,2023,East Hub,The Orchard Surgery,NOVA,Commercial,True,5,2,2,6,Rachel White,2022/23,100004,Diabetes
+2023-06-24 16:37:08,Jun,2023,West Hub,Riverside Medical Centre,IMPACT,Non-Commercial,False,10,5,6,8,James Patel,2023/24,100007,Neurology
+2026-11-25 15:39:09,Nov,2026,North Hub,St Mary's Surgery,DISCOVER,Non-Commercial,False,28,26,86,53,James Patel,2026/27,100006,Respiratory
+2023-07-06 09:16:51,Jul,2023,East Hub,Greenfield Practice,GALAXY,Commercial,False,7,6,6,11,Sophie Wilson,2023/24,100002,Mental Health
+2025-09-02 11:20:31,Sep,2025,South Hub,Lakeside Health Centre,GALAXY,Commercial,True,25,7,18,8,Sarah Jones,2025/26,100002,Oncology
+2025-08-22 08:01:21,Aug,2025,East Hub,Riverside Medical Centre,IMPACT,Non-Commercial,True,26,24,74,36,Rachel White,2025/26,100007,Oncology
+2025-12-10 16:40:23,Dec,2025,West Hub,Lakeside Health Centre,IMPACT,Non-Commercial,True,14,14,38,35,Michael Taylor,2025/26,100007,Respiratory
+2026-08-17 10:18:13,Aug,2026,East Hub,The Orchard Surgery,INSIGHT,Non-Commercial,False,6,3,9,8,James Patel,2026/27,100005,Oncology
+2025-03-02 14:32:53,Mar,2025,West Hub,Riverside Medical Centre,PULSE,Commercial,False,17,5,6,9,Tom Evans,2024/25,100003,Oncology
+2025-04-22 09:58:42,Apr,2025,South Hub,Riverside Medical Centre,ORION,Commercial,True,5,1,4,1,Rachel White,2025/26,100001,Neurology
+2023-11-23 16:52:03,Nov,2023,South Hub,Lakeside Health Centre,GALAXY,Commercial,False,0,0,0,2,Tom Evans,2023/24,100002,Primary Care
